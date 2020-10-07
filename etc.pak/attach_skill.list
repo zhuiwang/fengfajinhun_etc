@@ -1,0 +1,22 @@
+#FORM2
+
+[金]
+# 增加角色法术攻击10%
+prop_scale/mag_power : 10
+
+[木]
+# 增加角色气血上限30%
+prop_scale/max_life : 30
+prop_scale/max_mana  : 30
+
+[水]
+# 增加角色防御40%
+prop_scale/def : 40
+
+[火]
+# 增加角色速度3%
+prop_scale/speed : 3
+
+[土]
+# 增加角色物理攻击15%
+prop_scale/phy_power : 15

@@ -1,0 +1,210 @@
+#FORM2
+
+[ÇàÅ£¾«]
+name                : ÇàÅ£¾«
+icon                : 6147
+portrait            : 6147
+level               : 105
+polar               : 5
+religion            : -1
+resist_metal        : 50
+resist_wood         : 0
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 100
+life_effect         : 35000
+phy_effect          : 2500
+mag_effect          : 2500
+speed_effect        : -20
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 1000
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 1000
+resist_lost         : 1000
+phy_absorb          : 0
+mag_absorb          : 0
+comrade             : ({ "Ð¡Å£Ñý1" })
+skills              : ({ "B4", "B5", "C3" })
+tactics_monster     : "tactics_qingniujing"
+combat_trigger      : "combat_trigger_normal"
+
+[Ð¡Å£Ñý1]
+name                : Ð¡Å£Ñý
+icon                : 6067
+portrait            : 6067
+level               : 105
+polar               : -1
+religion            : -1
+resist_metal        : 80
+resist_wood         : 80
+resist_water        : 80
+resist_fire         : 80
+resist_earth        : 80
+life_effect         : 18000
+phy_effect          : 2000
+mag_effect          : 1500
+speed_effect        : 0
+tao_effect          : 600
+resist_forgotten    : 80
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 80
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 80
+resist_lost         : 100
+damage_sel_rate     : 100
+damage_sel          : 50
+phy_absorb          : 0
+mag_absorb          : 0
+skills              : ({ "B4", "B5" })
+tactics_monster     : "tactics_xiaoniuyao"
+
+[Ê¯Å£ÑýÍõ]
+name                : Ê¯Å£ÑýÍõ
+icon                : 6259
+portrait            : 6259
+level               : 105
+polar               : 4
+religion            : -1
+resist_metal        : 80
+resist_wood         : 80
+resist_water        : 80
+resist_fire         : 80
+resist_earth        : 80
+life_effect         : 100000
+phy_effect          : 250
+mag_effect          : 250
+speed_effect        : 0
+tao_effect          : 200
+resist_forgotten    : 80
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 80
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 80
+resist_lost         : 1000
+phy_absorb          : -90
+mag_absorb          : -90
+double_hit_rate     : 100
+double_hit          : 3
+comrade             : ({ "Ð¡Å£Ñý2" })
+skills              : ({ "B5" })
+combat_trigger      : "combat_trigger_shiniuyaowang"
+tactics_monster     : "tactics_shiniuyaowang"
+sf_receive_damage   : "sf_receive_damage"
+
+[Ð¡Å£Ñý2]
+name                : Ð¡Å£Ñý
+icon                : 6067
+portrait            : 6067
+level               : 105
+polar               : -1
+religion            : -1
+resist_metal        : 50
+resist_wood         : 50
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 50
+life_effect         : 20000
+phy_effect          : 2000
+mag_effect          : 1500
+speed_effect        : 0
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 80
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 1000
+resist_lost         : 1000
+phy_absorb          : -50
+mag_absorb          : -50
+skills              : ({ "B4", "B5" })
+tactics_monster     : "tactics_xiaoniuyao"
+
+[¶ñÁé¹íÍõ]
+name                : ¶ñÁé¹íÍõ
+icon                : 6227
+portrait            : 6227
+level               : 105
+polar               : 1
+religion            : -1
+resist_metal        : 50
+resist_wood         : 20
+resist_water        : 20
+resist_fire         : 0
+resist_earth        : 20
+life_effect         : 68000
+phy_effect          : 2500
+mag_effect          : 2500
+speed_effect        : 0
+tao_effect          : 600
+resist_forgotten    : 80
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 80
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 1000
+resist_lost         : 1000
+phy_absorb          : 0
+mag_absorb          : 0
+damage_sel_rate     : 100
+damage_sel          : 50
+comrade             : ({ "¶ñ¹í" })
+skills              : ({ "B5", "D5" })
+tactics_monster     : "tactics_elingguiwang"
+combat_trigger      : "combat_trigger_normal"
+
+[¶ñ¹í]
+name                : ¶ñ¹í
+icon                : 6229
+portrait            : 6229
+level               : 105
+polar               : -1
+religion            : -1
+resist_metal        : 20
+resist_wood         : 20
+resist_water        : 20
+resist_fire         : 20
+resist_earth        : 20
+life_effect         : 25000
+phy_effect          : 1500
+mag_effect          : 1500
+speed_effect        : 0
+tao_effect          : 600
+resist_forgotten    : 150
+resist_poison       : 1000
+resist_frozen       : 1000
+resist_sleep        : 1000
+resist_confusion    : 1000
+resist_repress      : 200
+resist_melt         : 1000
+resist_cage         : 1000
+resist_lock         : 80
+resist_lost         : 1000
+phy_absorb          : 0
+mag_absorb          : 0
+sf_die              : "sf_die"
+skills              : ({ "B5", "C5" })
+god_book_skills     : ({ "PHYSICAL_ATTACK" })
+god_book_level      :200
+tactics_monster     : "tactics_egui"
+sf_god_book_success_rate : "sf_god_book_success_rate"

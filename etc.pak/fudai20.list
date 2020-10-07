@@ -1,0 +1,678 @@
+#FORM2
+#wzhuang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+娃娃装备160 : 1000
+
+[娃娃装备160]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯10" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯20" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯30" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环10" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环20" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环30" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜10" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜20" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜30" })
+
+[娃娃装备130-160]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "宝玉金镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "宝玉金镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "宝玉金镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤凰羽翼1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤凰羽翼2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤凰羽翼3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金丝良玉肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金丝良玉肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金丝良玉肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红宝炫铃镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红宝炫铃镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红宝炫铃镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "在天飞龙环1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "在天飞龙环2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "在天飞龙环3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "翡翠金甲肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "翡翠金甲肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "翡翠金甲肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "幻影手镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "幻影手镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "幻影手镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "冰晶脚环1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "冰晶脚环2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "冰晶脚环3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "寒玉手镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "凤舞九天环3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蚕寒玉肚兜3" })
+
+[宝玉金镯1]
+name      : 宝玉金镯
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_str", 39, "prop/child_phy_damage", 3800 })
+
+[金丝良玉肚兜1]
+name      : 金丝良玉肚兜
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_str", 39, "prop/child_ignore_def", 20 })
+
+[凤凰羽翼1]
+name      : 凤凰羽翼
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_str", 39, "prop/child_phy_damage", 3800 })
+
+[宝玉金镯2]
+name      : 宝玉金镯
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_wisdom", 39, "prop/child_mag_damage", 3800 })
+
+[金丝良玉肚兜2]
+name      : 金丝良玉肚兜
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_wisdom", 39, "prop/child_ignore_def", 20 })
+
+[凤凰羽翼2]
+name      : 凤凰羽翼
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_wisdom", 39, "prop/child_mag_damage", 3800 })
+
+[宝玉金镯3]
+name      : 宝玉金镯
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_physique", 39, "prop/child_damage_reduce", 4200 })
+
+[金丝良玉肚兜3]
+name      : 金丝良玉肚兜
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[凤凰羽翼3]
+name      : 凤凰羽翼
+min_level : 130
+max_level : 130
+attribs      : ({ "prop/child_all_attrib", 26, "prop/child_physique", 39, "prop/child_damage_reduce", 4200 })
+
+
+
+
+[红宝炫铃镯1]
+name      : 红宝炫铃镯
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_str", 42, "prop/child_phy_damage", 4800 })
+
+[翡翠金甲肚兜1]
+name      : 翡翠金甲肚兜
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_str", 42, "prop/child_ignore_def", 20 })
+
+[在天飞龙环1]
+name      : 在天飞龙环
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_str", 42, "prop/child_phy_damage", 4800 })
+
+[红宝炫铃镯2]
+name      : 红宝炫铃镯
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_wisdom", 42, "prop/child_mag_damage", 4800 })
+
+[翡翠金甲肚兜2]
+name      : 翡翠金甲肚兜
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_wisdom", 42, "prop/child_ignore_def", 20 })
+
+[在天飞龙环2]
+name      : 在天飞龙环
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_wisdom", 42, "prop/child_mag_damage", 4800 })
+
+[红宝炫铃镯3]
+name      : 红宝炫铃镯
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_physique", 42, "prop/child_damage_reduce", 5000 })
+
+[翡翠金甲肚兜3]
+name      : 翡翠金甲肚兜
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[在天飞龙环3]
+name      : 在天飞龙环
+min_level : 140
+max_level : 140
+attribs      : ({ "prop/child_all_attrib", 28, "prop/child_physique", 42, "prop/child_damage_reduce", 5000 })
+
+
+
+
+
+[幻影手镯1]
+name      : 幻影手镯
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_str", 45, "prop/child_phy_damage", 6000 })
+
+[玄冥肚兜1]
+name      : 玄冥肚兜
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_str", 45, "prop/child_ignore_def", 20 })
+
+[冰晶脚环1]
+name      : 冰晶脚环
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_str", 45, "prop/child_phy_damage", 6000 })
+
+[幻影手镯2]
+name      : 幻影手镯
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_wisdom", 45, "prop/child_mag_damage", 6000 })
+
+[玄冥肚兜2]
+name      : 玄冥肚兜
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_wisdom", 45, "prop/child_ignore_def", 20 })
+
+[冰晶脚环2]
+name      : 冰晶脚环
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_wisdom", 45, "prop/child_mag_damage", 6000 })
+
+[幻影手镯3]
+name      : 幻影手镯
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_physique", 45, "prop/child_damage_reduce", 6500 })
+
+[玄冥肚兜3]
+name      : 玄冥肚兜
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[冰晶脚环3]
+name      : 冰晶脚环
+min_level : 150
+max_level : 150
+attribs      : ({ "prop/child_all_attrib", 30, "prop/child_physique", 45, "prop/child_damage_reduce", 6500 })
+
+
+
+
+[寒玉手镯1]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_str", 48, "prop/child_phy_damage", 7500 })
+
+[金蚕寒玉肚兜1]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_str", 48, "prop/child_ignore_def", 20 })
+
+[凤舞九天环1]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_str", 48, "prop/child_phy_damage", 7500 })
+
+[寒玉手镯2]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_wisdom", 48, "prop/child_mag_damage", 7500 })
+
+[金蚕寒玉肚兜2]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_wisdom", 48, "prop/child_ignore_def", 20 })
+
+[凤舞九天环2]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_wisdom", 48, "prop/child_mag_damage", 7500 })
+
+[寒玉手镯3]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_physique", 48, "prop/child_damage_reduce", 8000 })
+
+[金蚕寒玉肚兜3]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[凤舞九天环3]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 32, "prop/child_physique", 48, "prop/child_damage_reduce", 8000 })
+
+
+################################
+
+[寒玉手镯10]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_str", 240, "prop/child_phy_damage", 38000 })
+
+[金蚕寒玉肚兜10]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_str", 240, "prop/child_ignore_def", 20 })
+
+[凤舞九天环10]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_str", 240, "prop/child_phy_damage", 38000 })
+
+[寒玉手镯20]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_wisdom", 240, "prop/child_mag_damage", 38000 })
+
+[金蚕寒玉肚兜20]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_wisdom", 240, "prop/child_ignore_def", 20 })
+
+[凤舞九天环20]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_wisdom", 240, "prop/child_mag_damage", 38000 })
+
+[寒玉手镯30]
+name      : 寒玉手镯
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_physique", 240, "prop/child_damage_reduce", 42000 })
+
+[金蚕寒玉肚兜30]
+name      : 金蚕寒玉肚兜
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[凤舞九天环30]
+name      : 凤舞九天环
+min_level : 160
+max_level : 160
+attribs      : ({ "prop/child_all_attrib", 160, "prop/child_physique", 240, "prop/child_damage_reduce", 42000 })
+
+
+
+
+
+
+[娃娃装备80-120]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红玉手镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红玉手镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "红玉手镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "青藤金铃环1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "青藤金铃环2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "青藤金铃环3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "福慧肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "福慧肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "福慧肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "琉璃手镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "琉璃手镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "琉璃手镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "赤金祥云脚环1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "赤金祥云脚环2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "赤金祥云脚环3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金边肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金边肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金边肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "镶金玉镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "镶金玉镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "镶金玉镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "月影霜天1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "月影霜天2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "月影霜天3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤焰肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤焰肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "赤焰肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金铃手镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金铃手镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金铃手镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "风清紫翼1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "风清紫翼2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "风清紫翼3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "紫衣青玉肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "紫衣青玉肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "紫衣青玉肚兜3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "双翼金镯1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "双翼金镯2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "双翼金镯3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "精金紫水1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "精金紫水2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "精金紫水3" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "锦銮肚兜1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "锦銮肚兜2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "锦銮肚兜3" })
+
+[红玉手镯1]
+name      : 红玉手镯
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_str", 24, "prop/child_phy_damage", 900 })
+
+[福慧肚兜1]
+name      : 福慧肚兜
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_str", 24, "prop/child_ignore_def", 20 })
+
+[青藤金铃环1]
+name      : 青藤金铃环
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_str", 24, "prop/child_phy_damage", 900 })
+
+[红玉手镯2]
+name      : 红玉手镯
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_wisdom", 24, "prop/child_mag_damage", 900 })
+
+[福慧肚兜2]
+name      : 福慧肚兜
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_wisdom", 24, "prop/child_ignore_def", 20 })
+
+[青藤金铃环2]
+name      : 青藤金铃环
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_wisdom", 24, "prop/child_mag_damage", 900 })
+
+[红玉手镯3]
+name      : 红玉手镯
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_physique", 24, "prop/child_damage_reduce", 1000 })
+
+[福慧肚兜3]
+name      : 福慧肚兜
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[青藤金铃环3]
+name      : 青藤金铃环
+min_level : 80
+max_level : 80
+attribs      : ({ "prop/child_all_attrib", 16, "prop/child_physique", 24, "prop/child_damage_reduce", 1000 })
+
+[琉璃手镯1]
+name      : 琉璃手镯
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_str", 27, "prop/child_phy_damage", 1300 })
+
+[金边肚兜1]
+name      : 金边肚兜
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_str", 27, "prop/child_ignore_def", 20 })
+
+[赤金祥云脚环1]
+name      : 赤金祥云脚环
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_str", 27, "prop/child_phy_damage", 1300 })
+
+[琉璃手镯2]
+name      : 琉璃手镯
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_wisdom", 27, "prop/child_mag_damage", 1300 })
+
+[金边肚兜2]
+name      : 金边肚兜
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_wisdom", 27, "prop/child_ignore_def", 20 })
+
+[赤金祥云脚环2]
+name      : 赤金祥云脚环
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_wisdom", 27, "prop/child_mag_damage", 1300 })
+
+[琉璃手镯3]
+name      : 琉璃手镯
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_physique", 27, "prop/child_damage_reduce", 1400 })
+
+[金边肚兜3]
+name      : 金边肚兜
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[赤金祥云脚环3]
+name      : 赤金祥云脚环
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/child_all_attrib", 18, "prop/child_physique", 27, "prop/child_damage_reduce", 1300 })
+
+
+
+
+
+[镶金玉镯1]
+name      : 镶金玉镯
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_str", 30, "prop/child_phy_damage", 1700 })
+
+[赤焰肚兜1]
+name      : 赤焰肚兜
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_str", 30, "prop/child_ignore_def", 20 })
+
+[月影霜天1]
+name      : 月影霜天
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_str", 30, "prop/child_phy_damage", 1700 })
+
+[镶金玉镯2]
+name      : 镶金玉镯
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_wisdom", 30, "prop/child_mag_damage", 1700 })
+
+[赤焰肚兜2]
+name      : 赤焰肚兜
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_wisdom", 30, "prop/child_ignore_def", 20 })
+
+[月影霜天2]
+name      : 月影霜天
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_wisdom", 30, "prop/child_mag_damage", 1700 })
+
+[镶金玉镯3]
+name      : 镶金玉镯
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_physique", 30, "prop/child_damage_reduce", 1900 })
+
+[赤焰肚兜3]
+name      : 赤焰肚兜
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[月影霜天3]
+name      : 月影霜天
+min_level : 100
+max_level : 100
+attribs      : ({ "prop/child_all_attrib", 20, "prop/child_physique", 30, "prop/child_damage_reduce", 1900 })
+
+
+
+
+[金铃手镯1]
+name      : 金铃手镯
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_str", 33, "prop/child_phy_damage", 2200 })
+
+[紫衣青玉肚兜1]
+name      : 紫衣青玉肚兜
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_str", 33, "prop/child_ignore_def", 20 })
+
+[风清紫翼1]
+name      : 风清紫翼
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_str", 33, "prop/child_phy_damage", 2200 })
+
+[金铃手镯2]
+name      : 金铃手镯
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_wisdom", 33, "prop/child_mag_damage", 2200 })
+
+[紫衣青玉肚兜2]
+name      : 紫衣青玉肚兜
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_wisdom", 33, "prop/child_ignore_def", 20 })
+
+[风清紫翼2]
+name      : 风清紫翼
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_wisdom", 33, "prop/child_mag_damage", 2200 })
+
+[金铃手镯3]
+name      : 金铃手镯
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_physique", 33, "prop/child_damage_reduce", 2400 })
+
+[紫衣青玉肚兜3]
+name      : 紫衣青玉肚兜
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[风清紫翼3]
+name      : 风清紫翼
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/child_all_attrib", 22, "prop/child_physique", 33, "prop/child_damage_reduce", 2400 })
+
+
+
+
+
+[双翼金镯1]
+name      : 双翼金镯
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_str", 36, "prop/child_phy_damage", 3000 })
+
+[锦銮肚兜1]
+name      : 锦銮肚兜
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_str", 36, "prop/child_ignore_def", 20 })
+
+[精金紫水1]
+name      : 精金紫水
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_str", 36, "prop/child_phy_damage", 3000 })
+
+[双翼金镯2]
+name      : 双翼金镯
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_wisdom", 36, "prop/child_mag_damage", 3000 })
+
+[锦銮肚兜2]
+name      : 锦銮肚兜
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_wisdom", 36, "prop/child_ignore_def", 20 })
+
+[精金紫水2]
+name      : 精金紫水
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_wisdom", 36, "prop/child_mag_damage", 3000 })
+
+[双翼金镯3]
+name      : 双翼金镯
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_physique", 36, "prop/child_damage_reduce", 3200 })
+
+[锦銮肚兜3]
+name      : 锦銮肚兜
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_reduce_mag", 15, "prop/child_reduce_phy", 15 })
+
+[精金紫水3]
+name      : 精金紫水
+min_level : 120
+max_level : 120
+attribs      : ({ "prop/child_all_attrib", 24, "prop/child_physique", 36, "prop/child_damage_reduce", 3200 })
+
+

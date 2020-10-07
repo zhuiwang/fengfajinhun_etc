@@ -1,0 +1,1396 @@
+#FORM2
+
+[appellation_effect_desc]
+中洲霸主 : 所有相性5增加
+中洲第一帮副帮主 : 所有相性4增加
+中洲第一帮长老 : 所有相性3增加
+中洲第一帮护法 : 所有相性3增加
+中洲第一帮堂主 : 所有相性2增加
+中洲第一帮精英 : 所有相性2增加
+中洲第一帮帮众 : 所有相性1增加
+丐帮之主 :  所有相性5增加 所有属性5增加 忽视所有抗性300%增加
+别人家的老婆最美 : 所有相性5增加 所有属性5增加 所有抗性50%增加
+别人家的老公最强 : 所有相性5增加 所有属性5增加 所有抗异常50%增加
+我是癞蛤蟆，不吃天鹅肉 : 所有相性5增加 所有属性5增加
+养了只吃干饭的病猫 : 所有相性5增加 所有属性5增加
+嗜血狂魔 : 所有相性5增加 所有属性5增加
+倒霉鬼 : 所有相性5增加 所有属性5增加 闪避400增加
+天墉城是我家 : 所有相性5增加 所有属性5增加
+百科全书 : 所有相性5增加 所有属性5增加 强力克五系1000%增加
+神农尝百草 : 所有相性5增加 所有属性5增加 强力障碍100%增加
+生死簿里找不到我 : 所有相性5增加 所有属性5增加 解除所有异常100%增加
+天罡地煞 : 所有相性50增加 所有属性500增加
+四圣真君 : 所有相性100增加 所有属性1000增加
+妖皇 : 所有相性5增加 所有属性10增加 力量124增加 物理必杀率30%增加
+天煞 : 所有相性5增加 所有属性10增加 灵力124增加 法术必杀率20%增加
+灭天 : 所有相性5增加 所有属性10增加 敏捷124增加 抗所有异常20%增加
+庖丁 : 所有相性5增加 所有属性10增加 体质124增加 抗所有异常20%增加
+过河卒 : 所有相性6增加 所有属性20增加 大幅度忽视抗水抗木 
+当头炮 : 所有相性7增加 所有属性35增加 大幅度忽视抗金抗火
+屏风馬 : 所有相性8增加 所有属性40增加 
+巡河車 : 所有相性9增加 所有属性45增加 
+无双相 : 所有相性10增加 所有属性50增加 
+智勇仕 : 所有相性11增加 所有属性55增加 
+將军 : 所有相性12增加 所有属性60增加 
+绝灭吞天团 : 所有相性5增加 所有属性10增加 准确率600增加 
+秒杀吞天团 : 所有相性5增加 所有属性10增加 气血100000增加 所有属性30%增加
+绝灭噬地团 : 所有相性5增加 所有属性10增加 闪避6000增加
+秒杀噬地团 : 所有相性5增加 所有属性10增加 气血100000增加 所有属性30%增加
+吞天十连斩 : 所有相性5增加 所有属性10增加 气血100000增加 所有相性30%增加 所有属性30%增加
+噬地十连斩 : 所有相性5增加 所有属性10增加 气血100000增加 所有相性30%增加 所有属性30%增加
+绝灭傀儡王团 : 所有相性5增加 所有属性10增加 所有抗性100%增加
+秒杀傀儡王团 : 所有相性5增加 所有属性10增加
+傀儡王十连斩 : 所有相性5增加 所有属性10增加 气血100000增加 所有相性30%增加 所有属性30%增加
+证道不止 : 所有相性12增加 所有属性60增加 
+傲视群雄 : 所有相性12增加 所有属性60增加 
+我是掌门 : 所有相性12增加 所有属性60增加 
+灵幡大神 : 所有相性5增加 所有属性10增加 所有技能50增加 物理必杀率50%增加 法术必杀率50%增加
+活学活用 : 所有相性5增加 所有属性10增加 所有技能50增加 物理必杀率100%增加 法术必杀率100%增加
+五万仙道 : 所有相性5增加 所有属性10增加 抗所有异常50%增加
+六万仙道 : 所有相性5增加 所有属性10增加 抗所有异常70%增加
+七万仙道 : 所有相性5增加 所有属性10增加 抗所有异常150%增加
+高手 : 所有相性5增加 所有属性10增加 所有技能100增加
+誉满三界 : 所有相性5增加 所有属性10增加
+举世闻名 : 所有相性5增加 所有属性10增加
+家喻户晓 : 所有相性5增加 所有属性10增加
+力神 : 所有相性5增加 所有属性10增加 力量124增加 物理必杀率50%增加 连击率30增加 连击5增加 抗物理50%增加 准确150%增加
+法神 : 所有相性5增加 所有属性10增加 灵力124增加 法术必杀率50%增加 忽视所有抗性50%增加 所有抗性80%增加 准确150%增加
+风神 : 所有相性5增加 所有属性10增加 敏捷124增加 忽视所有抗异常50%增加 所有抗异常50%增加 闪避900增加
+铁人 : 所有相性5增加 所有属性10增加 体质124增加 气血200000增加 所有抗性80%增加 所有抗异常50%增加 忽视目标物理必杀50 闪避900增加
+道王 : 所有相性5增加 所有属性10增加 所有抗异常75%增加 强力障碍50%增加
+王 : 所有相性5增加 所有属性10增加 所有抗异常150%增加 强力障碍100%增加
+秒杀吞天不是梦 : 所有相性100增加 所有属性5000增加 抗所有异常1000 忽视所有抗异常1000 闪避4000 准确400 强力克五系1000% 强物理伤害1000% 抗物理增加100% 所有抗性1000% 破防100% 破防率 100% 忽视躲避攻击 100%
+打不过就扫码 : 所有相性100增加 所有属性1000增加 抗所有异常1000 忽视所有抗异常1000 闪避4000 准确400 强力克五系1000% 强物理伤害1000% 抗物理增加100% 所有抗性1000% 破防100% 破防率 100% 忽视躲避攻击 100%
+五龙山云霄洞第一代弟子 : 所有相性5增加 忽视目标抗金1000%增加 准确率600%增加 
+五龙山云霄洞第二代弟子 : 所有相性5增加 忽视目标抗金800%增加 准确率400%增加
+五龙山云霄洞第三代弟子 : 所有相性5增加 忽视目标抗金500%
+终南山玉柱洞第一代弟子 : 所有相性5增加 忽视目标抗木1000%增加 准确率600%增加 
+终南山玉柱洞第二代弟子 : 所有相性5增加 忽视目标抗木800%增加 准确率400%增加
+终南山玉柱洞第三代弟子 : 所有相性5增加 忽视目标抗木500%
+凤凰山斗阙宫第一代弟子 : 所有相性5增加 忽视目标抗水1000%增加 准确率600%增加 
+凤凰山斗阙宫第二代弟子 : 所有相性5增加 忽视目标抗水800%增加 准确率400%增加
+凤凰山斗阙宫第三代弟子 : 所有相性5增加 忽视目标抗水500%
+乾元山金光洞第一代弟子 : 所有相性5增加 忽视目标抗火1000%增加 准确率600%增加 
+乾元山金光洞第二代弟子 : 所有相性5增加 忽视目标抗火800%增加 准确率400%增加
+乾元山金光洞第三代弟子 : 所有相性5增加 忽视目标抗火500%
+骷髅山白骨洞第一代弟子 : 所有相性5增加 忽视目标抗土1000%增加 准确率600%增加 
+骷髅山白骨洞第二代弟子 : 所有相性5增加 忽视目标抗土800%增加 准确率400%增加
+骷髅山白骨洞第三代弟子 : 所有相性5增加 忽视目标抗土500%
+金系精英 : 所有相性5增加 强力克木1000%
+木系精英 : 所有相性5增加 强力克土1000%
+水系精英 : 所有相性5增加 强力克火1000%
+火系精英 : 所有相性5增加 强力克金1000%
+土系精英 : 所有相性5增加 强力克水1000%
+元始天尊记名弟子 : 所有相性5增加 强力克木1000%
+准提道人记名弟子 : 所有相性5增加 强力克土1000%
+西方教主记名弟子 : 所有相性5增加 强力克火1000%
+太上老君记名弟子 : 所有相性5增加 强力克金1000%
+通天教主记名弟子 : 所有相性5增加 强力克水1000%
+初领妙道 : 所有相性5增加 强力障碍100%增加
+略通道行 : 所有相性5增加 强力障碍100%增加
+渐入佳境 : 所有相性5增加 强力障碍100%增加
+元神初具 : 所有相性5增加 强力障碍100%增加
+道心稳固 : 所有相性5增加 强力障碍100%增加
+道高德隆 : 所有相性5增加 强力障碍100%增加
+妙领天机 : 所有相性5增加 强力障碍100%增加
+脱胎换骨 : 所有相性5增加 强力障碍100%增加
+霞举飞升 : 所有相性5增加 强力障碍100%增加
+道满根归 : 所有相性5增加 强力障碍100%增加
+不堕轮回 : 所有相性5增加 强力障碍100%增加
+已证大道 : 所有相性5增加 强力障碍100%增加
+反璞归真 : 所有相性5增加 强力障碍100%增加
+法力无边 : 所有相性5增加 强力障碍100%增加
+天人合一 : 所有相性5增加 强力障碍100%增加
+初出江湖 : 所有相性5增加 85%解除异常状态
+颇具潜力 : 所有相性5增加 85%解除异常状态
+初显锋芒 : 所有相性5增加 85%解除异常状态
+小有名气 : 所有相性5增加 85%解除异常状态
+声名鹊起 : 所有相性5增加 85%解除异常状态
+锋芒毕露 : 所有相性5增加 85%解除异常状态
+声名显赫 : 所有相性5增加 85%解除异常状态
+如雷贯耳 : 所有相性5增加 85%解除异常状态
+威风八面 : 所有相性5增加 85%解除异常状态
+德高望重 : 所有相性5增加 85%解除异常状态
+威镇九州 : 所有相性5增加 85%解除异常状态
+常胜将军 : 所有相性5增加 85%解除异常状态
+战无不胜 : 所有相性5增加 85%解除异常状态
+万人景仰 : 所有相性5增加 85%解除异常状态
+飞升 : 所有伤害30%增加 攻击技能消耗100%增加
+
+[五龙山云霄洞第一代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_metal : 1000
+accurate : 600
+
+[五龙山云霄洞第二代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_metal : 800
+accurate : 400
+
+[五龙山云霄洞第三代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_metal : 500 
+
+[终南山玉柱洞第一代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_wood : 1000
+accurate : 600
+
+[终南山玉柱洞第二代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_wood : 800
+accurate : 400
+
+[终南山玉柱洞第三代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_wood : 500 
+
+[凤凰山斗阙宫第一代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_water : 1000
+accurate : 600
+
+[凤凰山斗阙宫第二代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_water : 800
+accurate : 400
+
+[凤凰山斗阙宫第三代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_water : 500 
+
+[乾元山金光洞第一代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_fire : 1000
+accurate : 600
+
+[乾元山金光洞第二代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_fire : 800
+accurate : 400
+
+[乾元山金光洞第三代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_fire : 500 
+
+[骷髅山白骨洞第一代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_earth : 1000
+accurate : 600
+
+[骷髅山白骨洞第二代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_earth : 800
+accurate : 400
+
+[骷髅山白骨洞第三代弟子]
+type : "family"
+all_polar : 5
+ignore_resist_earth : 500 
+
+[金系精英]
+type : "family_sort"
+all_polar : 5
+super_excluse_wood : 1000
+
+[木系精英]
+type : "family_sort"
+all_polar : 5
+super_excluse_earth : 1000
+
+[水系精英]
+type : "family_sort"
+all_polar : 5
+super_excluse_fire : 1000
+
+[火系精英]
+type : "family_sort"
+all_polar : 5
+super_excluse_metal : 1000
+
+[土系精英]
+type : "family_sort"
+all_polar : 5
+super_excluse_water : 1000
+
+[元始天尊记名弟子]
+type : "upgrade_family"
+all_polar : 5
+super_excluse_wood : 1000
+
+[准提道人记名弟子]
+type : "upgrade_family"
+all_polar : 5
+super_excluse_earth : 1000
+
+[西方教主记名弟子]
+type : "upgrade_family"
+all_polar : 5
+super_excluse_fire : 1000
+
+[太上老君记名弟子]
+type : "upgrade_family"
+all_polar : 5
+super_excluse_metal : 1000
+
+[通天教主记名弟子]
+type : "upgrade_family"
+all_polar : 5
+super_excluse_water : 1000
+
+[天人合一]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[法力无边]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[反璞归真]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[已证大道]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[不堕轮回]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[道满根归]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[霞举飞升]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[新入道途]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[脱胎换骨]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[妙领天机]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[道高德隆]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[道心稳固]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[元神初具]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[渐入佳境]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[略通道行]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[初领妙道]
+type : "门派挑战"
+all_polar : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[万人景仰]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[战无不胜]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[常胜将军]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[威镇九州]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[德高望重]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[威风八面]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[如雷贯耳]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[声名显赫]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[小有名气]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[初显锋芒]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[颇具潜力]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[初出江湖]
+type : "herod"
+all_polar : 5
+release_forgotten : 85
+release_poison : 85
+release_frozen : 85
+release_sleep : 85
+release_confusion : 85
+release_repress : 85
+release_melt : 85
+release_cage : 85
+release_lock : 85
+release_lost : 85
+
+[秒杀吞天不是梦]
+type : "秒杀吞天不是梦"
+all_polar : 100
+all_attrib : 5000
+all_resist_except : 1000
+ignore_all_resist_except : 1000
+base_dodge : 4000
+accurate : 1000
+super_excluse_metal : 1000
+super_excluse_wood : 1000
+super_excluse_water : 1000
+super_excluse_fire : 1000
+super_excluse_earth : 1000
+enhanced_phy : 1000
+phy_absorb : -100
+all_resist_polar : 1000
+ignore_all_resist_polar : 2000
+penetrate : 100
+penetrate_rate : 100
+ignore_mag_dodge 100
+
+[打不过就扫码]
+type : "打不过就扫码"
+all_polar : 100
+all_attrib : 1000
+all_resist_except : 1000
+ignore_all_resist_except : 1000
+base_dodge : 4000
+accurate : 700
+super_excluse_metal : 1000
+super_excluse_wood : 1000
+super_excluse_water : 1000
+super_excluse_fire : 1000
+super_excluse_earth : 1000
+enhanced_phy : 1000
+phy_absorb : -100
+all_resist_polar : 1000
+ignore_all_resist_polar : 2000
+penetrate : 100
+penetrate_rate : 100
+ignore_mag_dodge 100
+
+[丐帮之主]
+type : "丐帮之主"
+all_polar : 5
+all_attrib : 5
+ignore_all_resist_polar : 300
+
+[别人家的老婆最美]
+type : "别人家的老婆最美"
+all_polar : 5
+all_attrib : 5
+all_resist_polar : 50
+
+[别人家的老公最强]
+type : "别人家的老公最强"
+all_polar : 5
+all_attrib : 5
+all_resist_except : 50
+
+[我是癞蛤蟆，不吃天鹅肉]
+type : "我是癞蛤蟆，不吃天鹅肉"
+all_polar : 5
+all_attrib : 5
+
+[养了只吃干饭的病猫]
+type : "养了只吃干饭的病猫"
+all_polar : 5
+all_attrib : 5
+
+[嗜血狂魔]
+type : "嗜血狂魔"
+all_polar : 5
+all_attrib : 5
+
+[倒霉鬼]
+type : "倒霉鬼"
+all_polar : 5
+all_attrib : 5
+base_dodge : 400
+
+[天墉城是我家]
+type : "天墉城是我家"
+all_polar : 5
+all_attrib : 5
+
+[百科全书]
+type : "百科全书"
+all_polar : 5
+all_attrib : 5
+super_excluse_metal : 1000
+super_excluse_wood : 1000
+super_excluse_water : 1000
+super_excluse_fire : 1000
+super_excluse_earth : 1000
+
+[神农尝百草]
+type : "神农尝百草"
+all_polar : 5
+all_attrib : 5
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+[生死簿里找不到我]
+type : "生死簿里找不到我"
+all_polar : 5
+all_attrib : 5
+release_forgotten : 100
+release_poison : 100
+release_frozen : 100
+release_sleep : 100
+release_confusion : 100
+release_repress : 100
+release_melt : 100
+release_cage : 100
+release_lock : 100
+release_lost : 100
+
+[天罡地煞]
+type : "天罡地煞"
+all_polar : 50
+all_attrib : 500
+
+[四圣真君]
+type : "四圣真君"
+all_polar : 100
+all_attrib : 1000
+
+[妖皇]
+type : "妖皇"
+all_polar : 5
+all_attrib : 10
+str ：124
+stunt_rate : 30
+
+[天煞]
+type : "天煞"
+all_polar : 5
+all_attrib : 10
+wiz ：124
+mstunt_rate : 20
+
+[灭天]
+type : "灭天"
+all_polar : 5
+all_attrib : 10
+dex ：124
+all_resist_except : 20
+
+[庖丁]
+type : "庖丁"
+all_polar : 5
+all_attrib : 10
+con ：124
+all_resist_except : 20
+
+[过河卒]
+type : "过河卒"
+all_polar : 6
+all_attrib : 20
+ignore_resist_water : 900
+ignore_resist_wood : 900
+
+[当头炮]
+type : "当头炮"
+all_polar : 7
+all_attrib : 35
+ignore_resist_metal : 900
+ignore_resist_fire : 900
+
+[屏风馬]
+type : "屏风馬"
+all_polar : 8
+all_attrib : 40
+
+[巡河車]
+type : "巡河車"
+all_polar : 9
+all_attrib : 45
+
+[无双相]
+type : "无双相"
+all_polar : 10
+all_attrib : 50
+
+[智勇仕]
+type : "智勇仕"
+all_polar : 6
+all_attrib : 20
+
+[將军]
+type : "將军"
+all_polar : 6
+all_attrib : 20
+
+[绝灭吞天团]
+type : "绝灭吞天团"
+all_polar : 5
+all_attrib : 10
+accurate ：600
+
+[秒杀吞天团]
+type : "秒杀吞天团"
+all_polar : 5
+all_attrib : 10
+max_life : 100000
+prop_scale/all_attrib : 30
+
+[绝灭噬地团]
+type : "绝灭噬地团"
+all_polar : 5
+all_attrib : 10
+
+[秒杀噬地团]
+type : "秒杀噬地团"
+all_polar : 5
+all_attrib : 10
+max_life : 100000
+prop_scale/all_attrib : 30
+
+[吞天十连斩]
+type : "吞天十连斩"
+all_polar : 5
+all_attrib : 10
+max_life : 100000
+prop_scale/all_attrib : 30
+prop_scale/all_polar : 30
+
+[噬地十连斩]
+type : "噬地十连斩"
+all_polar : 5
+all_attrib : 10
+max_life : 100000
+prop_scale/all_attrib : 30
+prop_scale/all_polar : 30
+
+[绝灭傀儡王团]
+type : "绝灭傀儡王团"
+all_polar : 5
+all_attrib : 10
+all_resist_polar : 100
+
+[秒杀傀儡王团]
+type : "秒杀傀儡王团"
+all_polar : 5
+all_attrib : 10
+
+[傀儡王十连斩]
+type : "傀儡王十连斩"
+all_polar : 5
+all_attrib : 10
+max_life : 100000
+prop_scale/all_attrib : 30
+prop_scale/all_polar : 30
+
+[证道不止]
+type : "证道不止"
+all_polar : 12
+all_attrib : 60
+
+[傲视群雄]
+type : "傲视群雄"
+all_polar : 12
+all_attrib : 60
+
+[我是掌门]
+type : "我是掌门"
+all_polar : 12
+all_attrib : 60
+
+[灵幡大神]
+type : "灵幡大神"
+all_polar : 5
+all_attrib : 10
+all_skil : 50
+stunt_rate : 50
+mstunt_rate : 50
+
+[活学活用]
+type : "活学活用"
+all_polar : 5
+all_attrib : 10
+all_skil : 50
+stunt_rate : 100
+mstunt_rate : 100
+
+[五万仙道]
+type : "五万仙道"
+all_polar : 5
+all_attrib : 10
+all_resist_except : 50
+
+[六万仙道]
+type : "六万仙道"
+all_polar : 5
+all_attrib : 10
+all_resist_except : 70
+
+[七万仙道]
+type : "七万仙道"
+all_polar : 5
+all_attrib : 10
+all_resist_except : 150
+
+[高手]
+type : "高手"
+all_polar : 5
+all_attrib : 10
+all_skil : 100
+
+[誉满三界]
+type : "誉满三界"
+all_polar : 5
+all_attrib : 10
+
+[举世闻名]
+type : "举世闻名"
+all_polar : 5
+all_attrib : 10
+
+[家喻户晓]
+type : "家喻户晓"
+all_polar : 5
+all_attrib : 10
+
+[力神]
+type : "力神"
+all_polar : 5
+all_attrib : 10
+str ：124
+stunt_rate : 50
+double_hit_rate : 30
+double_hit : 5
+phy_absorb ：-50
+accurate ：150
+
+[法神]
+type : "法神"
+all_polar : 5
+all_attrib : 10
+wiz : 124
+mstunt_rate : 50
+ignore_all_resist_polar : 50
+all_resist_polar : 80
+accurate ：150
+
+[风神]
+type : "风神"
+all_polar : 5
+all_attrib : 10
+ignore_all_resist_except : 50
+all_resist_except : 50
+base_dodge : 900
+
+[铁人]
+type : "铁人"
+all_polar : 5
+all_attrib : 10
+max_life : 200000
+all_resist_polar : 80
+all_resist_except : 50
+ignore_mag_dodge : 50
+base_dodge : 900
+
+[道王]
+type : "道王"
+all_polar : 5
+all_attrib : 10
+all_resist_except : 75
+super_forgotten : 50
+super_poison : 50
+super_frozen : 50
+super_sleep : 50
+super_confusion : 50
+super_repress : 50
+super_melt : 50
+super_cage : 50
+super_lock : 50
+super_lost : 50
+
+[王]
+type : "王"
+all_polar : 5
+all_attrib : 10
+all_resist_except : 150
+super_forgotten : 100
+super_poison : 100
+super_frozen : 100
+super_sleep : 100
+super_confusion : 100
+super_repress : 100
+super_melt : 100
+super_cage : 100
+super_lock : 100
+super_lost : 100
+
+千世恶霸 :               所有相性5增加 所有属性5增加
+千古名将 :               所有相性5增加 所有属性5增加
+护国大元帅 :             所有相性5增加 所有属性5增加
+
+[千世恶霸]
+type : "千世恶霸"
+all_polar : 5
+all_attrib : 5
+
+[千古名将]
+type : "千古名将"
+all_polar : 5
+all_attrib : 5
+
+[护国大元帅]
+type : "护国大元帅"
+all_polar : 5
+all_attrib : 5
+
+[金系掌门]
+type : "family"
+all_polar : 5
+all_attrib : 5
+ignore_resist_metal     : 1000
+ignore_resist_forgotten : 1000
+ignore_resist_repress   : 1000
+super_excluse_wood : 1500
+
+[木系掌门]
+type : "family"
+all_polar : 5
+all_attrib : 5
+ignore_resist_wood   : 1000
+ignore_resist_poison : 1000
+ignore_resist_melt   : 1000
+super_excluse_earth : 1500
+
+[水系掌门]
+type : "family"
+all_polar : 5
+all_attrib : 5
+ignore_resist_water  : 1000
+ignore_resist_frozen : 1000
+ignore_resist_cage   : 1000
+super_excluse_fire : 1500
+
+[火系掌门]
+type : "family"
+all_polar : 5
+all_attrib : 5
+ignore_resist_fire  : 1000
+ignore_resist_sleep : 1000
+ignore_resist_lock  : 1000
+super_excluse_metal : 1500
+
+[土系掌门]
+type : "family"
+all_polar : 5
+all_attrib : 5
+ignore_resist_earth     : 1000
+ignore_resist_confusion : 1000
+ignore_resist_lost      : 1000
+super_excluse_water : 1500
+
+[江湖游侠]
+type : "仙魔录"
+base_dodge : 500
+def : 90
+mag_power : -30
+phy_power : -30
+
+[智贤羽士]
+type : "仙魔录"
+base_dodge : 1000
+def : 160
+mag_power : -53
+phy_power : -53
+
+[屠龙法师]
+type : "仙魔录"
+base_dodge : 1500
+def : 360
+mag_power : -83
+phy_power : -83
+
+[辟邪仙师]
+type : "仙魔录"
+base_dodge : 2000
+def  : 490
+mag_power : -120
+phy_power : -120
+
+[九灵散人]
+type : "仙魔录"
+base_dodge : 2500
+def  : 640
+mag_power : -163
+phy_power : -163
+
+[伏魔真人]
+type : "仙魔录"
+base_dodge : 3000
+def  : 810
+mag_power : -213
+phy_power : -213
+
+[天道圣者]
+type : "仙魔录"
+base_dodge : 3500
+def  : 1000
+mag_power : -270
+phy_power : -270
+
+[妙应真君]
+type : "仙魔录"
+base_dodge : 4000
+def  : 1210
+mag_power : -333
+phy_power : -333
+
+[金身尊者]
+type : "仙魔录"
+base_dodge : 4500
+def  : 1440
+mag_power : -403
+phy_power : -403
+
+[无量天尊]
+type : "仙魔录"
+base_dodge : 5000
+def  : 1690
+mag_power : -480
+phy_power : -480
+
+[结拜]
+type : "brother"
+counter_attack_rate : 100
+counter_attack : 12
+D_skill_low_cost :  10
+C_skill_low_cost :  -10
+
+[夫妻]
+type : "marry"
+damage_sel_rate : 70
+damage_sel : 50
+D_skill_low_cost :  -10
+C_skill_low_cost :  10
+
+[飞升]
+type : "upgrade"
+prop_scale/mag_power : 30
+prop_scale/phy_power : 30
+B_skill_low_cost :  100
+J_skill_low_cost :  100
+
+[萝卜将军]
+type : "萝卜桃子大收集萝卜将军"
+no_update : 1
+
+[桃子勇士]
+type : "萝卜桃子大收集桃子勇士"
+no_update : 1
+
+[帮主]
+type : "party"
+no_update : 1
+
+[副帮主]
+type : "party"
+no_update : 1
+
+[青龙长老]
+type : "party"
+no_update : 1
+
+[白虎长老]
+type : "party"
+no_update : 1
+
+[朱雀长老]
+type : "party"
+no_update : 1
+
+[玄武长老]
+type : "party"
+no_update : 1
+
+[德馨堂主]
+type : "party"
+no_update : 1
+
+[素侠堂主]
+type : "party"
+no_update : 1
+
+[暗龙堂主]
+type : "party"
+no_update : 1
+
+[虎威堂主]
+type : "party"
+no_update : 1
+
+[紫云堂主]
+type : "party"
+no_update : 1
+
+[听雪堂主]
+type : "party"
+no_update : 1
+
+[梦溪堂主]
+type : "party"
+no_update : 1
+
+[玄风堂主]
+type : "party"
+no_update : 1
+
+[远雷护法]
+type : "party"
+no_update : 1
+
+[尖峰护法]
+type : "party"
+no_update : 1
+
+[夜伏护法]
+type : "party"
+no_update : 1
+
+[云海护法]
+type : "party"
+no_update : 1
+
+[苍兰护法]
+type : "party"
+no_update : 1
+
+[帮派精英]
+type : "party"
+no_update : 1
+
+[帮众]
+type : "party"
+no_update : 1
+
+[帮派功臣]
+type : "party_contributor"
+no_update : 1
+
+[跨服帮派争霸赛冠军帮帮主]
+type : "cs_partywar"
+all_polar : 5
+
+[跨服帮派争霸赛冠军帮副帮主]
+type : "cs_partywar"
+all_polar : 4
+
+[跨服帮派争霸赛冠军帮长老]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛冠军帮护法]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛冠军帮堂主]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛冠军帮精英]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛冠军帮帮众]
+type : "cs_partywar"
+all_polar : 1
+
+[跨服帮派争霸赛冠军]
+type : "cs_partywar"
+all_polar : 5
+all_attrib : 20
+
+[寿星称号]
+type : "char_birthday"
+no_update : 1
+
+[火眼金睛]
+type : "huoyan_jinjing"
+mag_power : 653
+phy_power : 653
+def       : 1960
+
+[中洲霸主]
+type : "cs_citywar"
+all_polar : 5
+
+[中洲第一帮副帮主]
+type : "cs_citywar"
+all_polar : 4
+
+[中洲第一帮长老]
+type : "cs_citywar"
+all_polar : 3
+
+[中洲第一帮护法]
+type : "cs_citywar"
+all_polar : 3
+
+[中洲第一帮堂主]
+type : "cs_citywar"
+all_polar : 2
+
+[中洲第一帮精英]
+type : "cs_citywar"
+all_polar : 2
+
+[中洲第一帮帮众]
+type : "cs_citywar"
+all_polar : 1
+
+[跨服帮派争霸赛亚军帮帮主]
+type : "cs_partywar"
+all_polar : 4
+
+[跨服帮派争霸赛亚军帮副帮主]
+type : "cs_partywar"
+all_polar : 3
+
+[跨服帮派争霸赛亚军帮长老]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛亚军帮护法]
+type : "cs_partywar"
+all_polar : 2
+
+[跨服帮派争霸赛亚军帮堂主]
+type : "cs_partywar"
+all_polar : 1
+
+[跨服帮派争霸赛亚军帮精英]
+type : "cs_partywar"
+all_polar : 1
+

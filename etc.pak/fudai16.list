@@ -1,0 +1,28 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+青蛙奖励 : 1
+
+[青蛙奖励]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "青蛙"})
+
+[青蛙]
+name$: ({青蛙, 青蛙})
+rank$: 宝宝
+level: 149
+enchant_flag : 1
+feisheng : 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 50, 50 })
+martial: ({ 40000000, 45000000 })
+channel_msg : "#$PLAYER#n打开#$锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"

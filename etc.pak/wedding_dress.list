@@ -1,0 +1,423 @@
+key_name,         no_float, show_in_combat, log_action, file_id,                       icon,  gender, unit, value, wedding_icon, wedding_dress
+龙凤呈祥服·新娘, 1,        0,              "zhuangb",  "wedding_dress/lfcx-xinniang", 9203,  2,      件,   500,   42102,        1
+爵卞玄端服·新娘, 1,        0,              "zhuangb",  "wedding_dress/jbxd-xinniang", 9204,  2,      件,   500,   42202,        1
+纯衣绛袡服·新娘, 1,        0,              "zhuangb",  "wedding_dress/cyjr-xinniang", 9205,  2,      件,   500,   42302,        1
+龙凤呈祥服·新郎, 1,        0,              "zhuangb",  "wedding_dress/lfcx-xinlang",  9206,  1,      件,   500,   42101,        1
+爵卞玄端服·新郎, 1,        0,              "zhuangb",  "wedding_dress/jbxd-xinlang",  9207,  1,      件,   500,   42201,        1
+纯衣绛袡服·新郎, 1,        0,              "zhuangb",  "wedding_dress/cyjr-xinlang",  9208,  1,      件,   500,   42301,        1
+清风沐雨装·男,   1,        0,              "qingfmy",  "wedding_dress/qfmy-nan",      8092,  1,      个,   500,   7022,         2
+清风沐雨装·女,   1,        0,              "qingfmy",  "wedding_dress/qfmy-nv",       8093,  2,      个,   500,   7023,         2
+万象明德套装·男, 1,        1,              "dress",    "wedding_dress/wxmd-nan2",     11012, 1,      件,   500,   21013,        2
+九天龙腾套装·男, 1,        1,              "dress",    "wedding_dress/jtlt-nan2",     11015, 1,      件,   500,   21016,        2
+万象婀娜套装·女, 1,        1,              "dress",    "wedding_dress/wxen-nv2",      12011, 2,      件,   500,   22014,        2
+九天凤舞套装·女, 1,        1,              "dress",    "wedding_dress/jtfw-nv2",      12014, 2,      件,   500,   22017,        2
+盛世非凡套装·男, 1,        1,              "dress",    "wedding_dress/ssff-nan2",     11014, 1,      件,   500,   21015,        2
+傲视斓彩套装·女, 1,        1,              "dress",    "wedding_dress/aslc-nv2",      12013, 2,      件,   500,   22016,        2
+万象明德套装(男), 1,        1,              "dress",    "wedding_dress/wxmd-nan",      11012, 1,      件,   500,   21013,        2
+九天龙腾套装(男), 1,        1,              "dress",    "wedding_dress/jtlt-nan",      11015, 1,      件,   500,   21016,        2
+万象婀娜套装(女), 1,        1,              "dress",    "wedding_dress/wxen-nv",       12011, 2,      件,   500,   22014,        2
+九天凤舞套装(女), 1,        1,              "dress",    "wedding_dress/jtfw-nv",       12014, 2,      件,   500,   22017,        2
+盛世非凡套装(男), 1,        1,              "dress",    "wedding_dress/ssff-nan",      11014, 1,      件,   500,   21015,        2
+傲视斓彩套装(女), 1,        1,              "dress",    "wedding_dress/aslc-nv",       12013, 2,      件,   500,   22016,        2
+吉祥如意套装·男, 1,        1,              "dress",    "wedding_dress/jxry-nan",      11011, 1,      件,   500,   21012,        2
+傲视双绝套装·男, 1,        1,              "dress",    "wedding_dress/assj-nan",      11024, 1,      件,   500,   21020,        2
+龙盘青云套装·男, 1,        1,              "dress",    "wedding_dress/lpqy-nan",      11013, 1,      件,   500,   21014,        2
+吉祥富贵套装·女, 1,        1,              "dress",    "wedding_dress/jxfg-nv",       12015, 2,      件,   500,   22018,        2
+盛世霓裳套装·女, 1,        1,              "dress",    "wedding_dress/ssns-nv",       12024, 2,      件,   500,   22020,        2
+龙盘五蕴套装·女, 1,        1,              "dress",    "wedding_dress/lpwy-nv",       12012, 2,      件,   500,   22015,        2
+轩辕战魂套装·男, 1,        1,              "dress",    "wedding_dress/xyzh-nan",      11018, 1,      件,   500,   21023,        2
+轩辕传奇套装·女, 1,        1,              "dress",    "wedding_dress/xycq-nv",       12018, 2,      件,   500,   22023,        2
+十年一梦套装·男, 1,        1,              "dress",    "wedding_dress/snym-nan",      8915,  1,      件,   500,   7028,         2
+十年一梦套装·女, 1,        1,              "dress",    "wedding_dress/snym-nv",       8916,  2,      件,   500,   7029,         2
+金系小師妹套裝, 1,        1,              "dress",    "wedding_dress/jxxsm-nv",       8922, 2,      件,  500,   7031,        2
+金系小師弟套裝, 1,        1,              "dress",    "wedding_dress/jxxsd-nan",       8922, 1,      件,  500,   7030,        2
+木系小師妹套裝, 1,        1,              "dress",    "wedding_dress/mxxsm-nv",       8922, 2,      件,  500,   7033,        2
+木系小師弟套裝, 1,        1,              "dress",    "wedding_dress/mxxsd-nan",       8922, 1,      件,  500,   7032,        2
+水系小師妹套裝, 1,        1,              "dress",    "wedding_dress/sxxsm-nv",       8922, 2,      件,  500,   7035,        2
+水系小師弟套裝, 1,        1,              "dress",    "wedding_dress/sxxsd-nan",       8922, 1,      件,  500,   7034,        2
+火系小師妹套裝, 1,        1,              "dress",    "wedding_dress/hxxsm-nv",       8922, 2,      件,  500,   7037,        2
+火系小師弟套裝, 1,        1,              "dress",    "wedding_dress/hxxsd-nan",       8922, 1,      件,  500,   7036,        2
+土系小師妹套裝, 1,        1,              "dress",    "wedding_dress/txxsm-nv",       8922, 2,      件,  500,   7039,        2
+土系小師弟套裝, 1,        1,              "dress",    "wedding_dress/txxsd-nan",       8922, 1,      件,  500,   7038,        2
+金系新師妹套裝, 1,        1,              "dress",    "wedding_dress/jxxsm-nv2",       8932, 2,      件,  500,   7041,        2
+金系新師弟套裝, 1,        1,              "dress",    "wedding_dress/jxxsd-nan2",       8932, 1,      件,  500,   7040,        2
+木系新師妹套裝, 1,        1,              "dress",    "wedding_dress/mxxsm-nv2",       8932, 2,      件,  500,   7043,        2
+木系新師弟套裝, 1,        1,              "dress",    "wedding_dress/mxxsd-nan2",       8932, 1,      件,  500,   7042,        2
+水系新師妹套裝, 1,        1,              "dress",    "wedding_dress/sxxsm-nv2",       8932, 2,      件,  500,   7045,        2
+水系新師弟套裝, 1,        1,              "dress",    "wedding_dress/sxxsd-nan2",       8932, 1,      件,  500,   7044,        2
+火系新師妹套裝, 1,        1,              "dress",    "wedding_dress/hxxsm-nv2",       8932, 2,      件,  500,   7047,        2
+火系新師弟套裝, 1,        1,              "dress",    "wedding_dress/hxxsd-nan2",       8932, 1,      件,  500,   7046,        2
+土系新師妹套裝, 1,        1,              "dress",    "wedding_dress/txxsm-nv2",       8932, 2,      件,  500,   7049,        2
+土系新師弟套裝, 1,        1,              "dress",    "wedding_dress/txxsd-nan2",       8932, 1,      件,  500,   7048,        2
+
+十年一梦·男, 1,        1,              "dress",    "wedding_dress/snym-nan",       7028, 1,      件,  500,   7028,        2
+十年一梦·女, 1,        1,              "dress",    "wedding_dress/snym-nv",       7029, 2,      件,  500,   7029,        2
+
+汤汤圆圆时装·男, 1,        1,              "dress",    "wedding_dress/ttyy-nan",       6357, 1,      件,  500,   6357,        2
+汤汤圆圆时装·女, 1,        1,              "dress",    "wedding_dress/ttyy-nv",       6357, 2,      件,  500,   6357,        2
+
+160套装金·男, 1,        1,              "dress",    "wedding_dress/taozhuangjin-nan", 11024, 1,      件,  500,   861601,    2
+160套装金·女, 1,        1,              "dress",    "wedding_dress/taozhuangjin-nv", 12024, 2,      件,  500,   871601,    2
+
+160套装木·男, 1,        1,              "dress",    "wedding_dress/taozhuangmu-nan", 11024, 1,      件,  500,   871602,    2
+160套装木·女, 1,        1,              "dress",    "wedding_dress/taozhuangmu-nv", 12024, 2,      件,  500,   861602,    2
+
+160套装水·男, 1,        1,              "dress",    "wedding_dress/taozhuangshui-nan", 11024, 1,      件,  500,   871603,    2
+160套装水·女, 1,        1,              "dress",    "wedding_dress/taozhuangshui-nv", 12024, 2,      件,  500,   861603,    2
+
+160套装火·男, 1,        1,              "dress",    "wedding_dress/taozhuanghuo-nan", 11024, 1,      件,  500,   861604,    2
+160套装火·女, 1,        1,              "dress",    "wedding_dress/taozhuanghuo-nv", 12024, 2,      件,  500,   871604,    2
+
+160套装土·男, 1,        1,              "dress",    "wedding_dress/taozhuangtu-nan", 11024, 1,      件,  500,   861605,    2
+160套装土·女, 1,        1,              "dress",    "wedding_dress/taozhuangtu-nv", 12024, 2,      件,  500,   871605,    2
+
+
+150套装金·男, 1,        1,              "dress",    "wedding_dress/taozhuangjin-nan1", 11024, 1,      件,  500,   861501,    2
+150套装金·女, 1,        1,              "dress",    "wedding_dress/taozhuangjin-nv1", 12024, 2,      件,  500,   871501,    2
+
+150套装木·男, 1,        1,              "dress",    "wedding_dress/taozhuangmu-nan1", 11024, 1,      件,  500,   871502,    2
+150套装木·女, 1,        1,              "dress",    "wedding_dress/taozhuangmu-nv1", 12024, 2,      件,  500,   861502,    2
+
+150套装水·男, 1,        1,              "dress",    "wedding_dress/taozhuangshui-nan1", 11024, 1,      件,  500,   871503,    2
+150套装水·女, 1,        1,              "dress",    "wedding_dress/taozhuangshui-nv1", 12024, 2,      件,  500,   861503,    2
+
+150套装火·男, 1,        1,              "dress",    "wedding_dress/taozhuanghuo-nan1", 11024, 1,      件,  500,   861504,    2
+150套装火·女, 1,        1,              "dress",    "wedding_dress/taozhuanghuo-nv1", 12024, 2,      件,  500,   871504,    2
+150套装土·男, 1,        1,              "dress",    "wedding_dress/taozhuangtu-nan1", 11024, 1,      件,  500,   861505,    2
+150套装土·女, 1,        1,              "dress",    "wedding_dress/taozhuangtu-nv1", 12024, 2,      件,  500,   871505,    2
+娃娃男带披风, 1,        1,              "dress",    "wedding_dress/wawa-nan", 11014, 1,      件,  500,   7014,    2
+娃娃女带花环, 1,        1,              "dress",    "wedding_dress/wawa-nv", 12024, 2,      件,  500,   7015,    2
+秋棠仙子·男, 1,        1,              "dress",    "wedding_dress/qtxz-nan",       11014, 1,      件,  500,   6288,        2
+秋棠仙子·女, 1,        1,              "dress",    "wedding_dress/qtxz-nv",       12024, 2,      件,  500,   6288,        2
+蝎子王·男, 1,        1,              "dress",    "wedding_dress/xieziwang-nan",       11014, 1,      件,  500,   20145,        2
+蝎子王·女, 1,        1,              "dress",    "wedding_dress/xieziwang-nv",       12024, 2,      件,  500,   20145,        2
+比翼鸟·男, 1,        1,              "dress",    "wedding_dress/biyiniao-nan",       11014, 1,      件,  500,   6354,        2
+比翼鸟·女, 1,        1,              "dress",    "wedding_dress/biyiniao-nv",       12024, 2,      件,  500,   6354,        2
+天宫发光男·男, 1,        1,              "dress",    "wedding_dress/tiangongfaguangnan-nan",       11014, 1,      件,  500,   20070,        2
+天宫发光男·女, 1,        1,              "dress",    "wedding_dress/tiangongfaguangnan-nv",       12024, 2,      件,  500,   20070,        2
+天宫剑男·男, 1,        1,              "dress",    "wedding_dress/tiangongjiannan-nan",       11014, 1,      件,  500,   20078,        2
+天宫剑男·女, 1,        1,              "dress",    "wedding_dress/tiangongjiannan-nv",       12024, 2,      件,  500,   20078,        2
+天宫剑女·男, 1,        1,              "dress",    "wedding_dress/tiangongjiannv-nan",       11014, 1,      件,  500,   20079,        2
+天宫剑女·女, 1,        1,              "dress",    "wedding_dress/tiangongjiannv-nv",       12024, 2,      件,  500,   20079,        2
+孟婆婆·男, 1,        1,              "dress",    "wedding_dress/mengpopo-nan",       11014, 1,      件,  500,   20052,        2
+孟婆婆·女, 1,        1,              "dress",    "wedding_dress/mengpopo-nv",       12024, 2,      件,  500,   20052,        2
+舌头小鬼·男, 1,        1,              "dress",    "wedding_dress/shetouxiaogui-nan",       11014, 1,      件,  500,   20058,        2
+舌头小鬼·女, 1,        1,              "dress",    "wedding_dress/shetouxiaogui-nv",       12024, 2,      件,  500,   20058,        2
+
+黄金豹·男, 1,        1,              "dress",    "wedding_dress/shetouxiaogui-nan",       11014, 1,      件,  500,   30016,        2
+黄金豹·女, 1,        1,              "dress",    "wedding_dress/shetouxiaogui-nv",       12024, 2,      件,  500,   30016,        2
+
+小黄三·男, 1,        1,              "dress",    "wedding_dress/xiaohuangsan-nan",       11014, 1,      件,  500,   6018,        2
+小黄三·女, 1,        1,              "dress",    "wedding_dress/xiaohuangsan-nv",       12024, 2,      件,  500,   6018,        2
+
+福星老人·男, 1,        1,              "dress",    "wedding_dress/fuxinglaoren-nan",       11014, 1,      件,  500,   6047,        2
+福星老人·女, 1,        1,              "dress",    "wedding_dress/fuxinglaoren-nv",       12024, 2,      件,  500,   6047,        2
+
+书生道人·男, 1,        1,              "dress",    "wedding_dress/shushengdaoren-nan",       11014, 1,      件,  500,   6046,        2
+书生道人·女, 1,        1,              "dress",    "wedding_dress/shushengdaoren-nv",       12024, 2,      件,  500,   6046,        2
+
+土系娘娘·男, 1,        1,              "dress",    "wedding_dress/tuxiniangniang-nan",       11014, 1,      件,  500,   6056,        2
+土系娘娘·女, 1,        1,              "dress",    "wedding_dress/tuxiniangniang-nv",       12024, 2,      件,  500,   6056,        2
+
+金系天尊·男, 1,        1,              "dress",    "wedding_dress/jinxitianzun-nan",       11014, 1,      件,  500,   6052,        2
+金系天尊·女, 1,        1,              "dress",    "wedding_dress/jinxitianzun-nv",       12024, 2,      件,  500,   6052,        2
+
+木系云中·男, 1,        1,              "dress",    "wedding_dress/muxiyunzhong-nan",       11014, 1,      件,  500,   6053,        2
+木系云中·女, 1,        1,              "dress",    "wedding_dress/muxiyunzhong-nv",       12024, 2,      件,  500,   6053,        2
+
+水系公主·男, 1,        1,              "dress",    "wedding_dress/shuixigongzhu-nan",       11014, 1,      件,  500,   6054,        2
+水系公主·女, 1,        1,              "dress",    "wedding_dress/shuixigongzhu-nv",       12024, 2,      件,  500,   6054,        2
+
+火系真人·男, 1,        1,              "dress",    "wedding_dress/huoxizhenren-nan",       11014, 1,      件,  500,   6055,        2
+火系真人·女, 1,        1,              "dress",    "wedding_dress/huoxizhenren-nv",       12024, 2,      件,  500,   6055,        2
+
+七彩牛头·男, 1,        1,              "dress",    "wedding_dress/qicainiutou-nan",       11014, 1,      件,  500,   6067,        2
+七彩牛头·女, 1,        1,              "dress",    "wedding_dress/qicainiutou-nv",       12024, 2,      件,  500,   6067,        2
+
+葫芦老头·男, 1,        1,              "dress",    "wedding_dress/hululaotou-nan",       11014, 1,      件,  500,   6086,        2
+葫芦老头·女, 1,        1,              "dress",    "wedding_dress/hululaotou-nv",       12024, 2,      件,  500,   6086,        2
+
+大鸟怪·男, 1,        1,              "dress",    "wedding_dress/daniaoguai-nan",       11014, 1,      件,  500,   6211,        2
+大鸟怪·女, 1,        1,              "dress",    "wedding_dress/daniaoguai-nv",       12024, 2,      件,  500,   6211,        2
+
+法宝转世·男, 1,        1,              "dress",    "wedding_dress/fabaozhuanshi-nan",       11014, 1,      件,  500,   6251,        2
+法宝转世·女, 1,        1,              "dress",    "wedding_dress/fabaozhuanshi-nv",       12024, 2,      件,  500,   6251,        2
+
+天宫骑马人·男, 1,        1,              "dress",    "wedding_dress/tiangongqimaren-nan",       11014, 1,      件,  500,   31113,        2
+天宫骑马人·女, 1,        1,              "dress",    "wedding_dress/tiangongqimaren-nv",       12024, 2,      件,  500,   31113,        2
+
+天宫时装女·男, 1,        1,              "dress",    "wedding_dress/tiangongshizhuangnv-nan",       11014, 1,      件,  500,   31121,        2
+天宫时装女·女, 1,        1,              "dress",    "wedding_dress/tiangongshizhuangnv-nv",       12024, 2,      件,  500,   31121,        2
+
+小猪系列一·男, 1,        1,              "dress",    "wedding_dress/xiaozhuxilieyi-nan",       11014, 1,      件,  500,   31085,        2
+小猪系列一·女, 1,        1,              "dress",    "wedding_dress/xiaozhuxilieyi-nv",       12024, 2,      件,  500,   31085,        2
+
+小猪系列二·男, 1,        1,              "dress",    "wedding_dress/xiaozhuxilieer-nan",       11014, 1,      件,  500,   31086,        2
+小猪系列二·女, 1,        1,              "dress",    "wedding_dress/xiaozhuxilieer-nv",       12024, 2,      件,  500,   31086,        2
+
+小猪系列三·男, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliesan-nan",       11014, 1,      件,  500,   31087,        2
+小猪系列三·女, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliesan-nv",       12024, 2,      件,  500,   31087,        2
+
+小猪系列四·男, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliesi-nan",       11014, 1,      件,  500,   31088,        2
+小猪系列四·女, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliesi-nv",       12024, 2,      件,  500,   31088,        2
+
+小猪系列五·男, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliewu-nan",       11014, 1,      件,  500,   31089,        2
+小猪系列五·女, 1,        1,              "dress",    "wedding_dress/xiaozhuxiliewu-nv",       12024, 2,      件,  500,   31089,        2
+
+西域马贼·男, 1,        1,              "dress",    "wedding_dress/xiyumazei-nan",       11014, 1,      件,  500,   6343,        2
+西域马贼·女, 1,        1,              "dress",    "wedding_dress/xiyumazei-nv",       12024, 2,      件,  500,   6343,        2
+
+西域弓箭·男, 1,        1,              "dress",    "wedding_dress/xiyugongjian-nan",       11014, 1,      件,  500,   6344,        2
+西域弓箭·女, 1,        1,              "dress",    "wedding_dress/xiyugongjian-nv",       12024, 2,      件,  500,   6344,        2
+
+西域骆驼·男, 1,        1,              "dress",    "wedding_dress/xiyuluotuo-nan",       11014, 1,      件,  500,   6345,        2
+西域骆驼·女, 1,        1,              "dress",    "wedding_dress/xiyuluotuo-nv",       12024, 2,      件,  500,   6345,        2
+
+小鱼儿·男, 1,        1,              "dress",    "wedding_dress/xiaoyuer-nan",       11014, 1,      件,  500,   51067,        2
+小鱼儿·女, 1,        1,              "dress",    "wedding_dress/xiaoyuer-nv",       12024, 2,      件,  500,   51067,        2
+
+小鱼·男, 1,        1,              "dress",    "wedding_dress/xiaoyu-nan",       11014, 1,      件,  500,   51091,        2
+小鱼·女, 1,        1,              "dress",    "wedding_dress/xiaoyu-nv",       12024, 2,      件,  500,   51091,        2
+
+黄金合体·男, 1,        1,              "dress",    "wedding_dress/huangjinheti-nan",       11014, 1,      件,  500,   51009,        2
+黄金合体·女, 1,        1,              "dress",    "wedding_dress/huangjinheti-nv",       12024, 2,      件,  500,   51009,        2
+
+大炮合体·男, 1,        1,              "dress",    "wedding_dress/dapaoheti-nan",       11014, 1,      件,  500,   51010,        2
+大炮合体·女, 1,        1,              "dress",    "wedding_dress/dapaoheti-nv",       12024, 2,      件,  500,   51010,        2
+
+调皮猴·男, 1,        1,              "dress",    "wedding_dress/dapaoheti-nan1",       11014, 1,      件,  500,   6103,        2
+调皮猴·女, 1,        1,              "dress",    "wedding_dress/dapaoheti-nv1",       12024, 2,      件,  500,   6103,        2
+
+野狗时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti2-nan",       11014, 1,      件,  500,   6104,        2
+野狗时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti2-nv",       12024, 2,      件,  500,   6104,        2
+
+青蛙时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti3-nan",       11014, 1,      件,  500,   6101,        2
+青蛙时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti3-nv",       12024, 2,      件,  500,   6101,        2
+
+金翅鸢时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti4-nan",       11014, 1,      件,  500,   6146,        2
+金翅鸢时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti4-nv",       12024, 2,      件,  500,   6146,        2
+
+狐狸时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti5-nan",       11014, 1,      件,  500,   6168,        2
+狐狸时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti5-nv",       12024, 2,      件,  500,   6168,        2
+
+金头陀时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti6-nan",       11014, 1,      件,  500,   6129,        2
+金头陀时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti6-nv",       12024, 2,      件,  500,   6129,        2
+
+海龟时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti7-nan",       11014, 1,      件,  500,   6126,        2
+海龟时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti7-nv",       12024, 2,      件,  500,   6126,        2
+
+黑熊妖皇时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti8-nan",       11014, 1,      件,  500,   6630,        2
+黑熊妖皇时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti8-nv",       12024, 2,      件,  500,   6630,        2
+
+机关兽★泰迪时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti9-nan",       11014, 1,      件,  500,   6367,        2
+机关兽★泰迪时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti9-nv",       12024, 2,      件,  500,   6367,        2
+
+机关兽★蟑螂时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti10-nan",       11014, 1,      件,  500,   6368,        2
+机关兽★蟑螂时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti10-nv",       12024, 2,      件,  500,   6368,        2
+
+机关兽★乌龟时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti11-nan",       11014, 1,      件,  500,   6369,        2
+机关兽★乌龟时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti11-nv",       12024, 2,      件,  500,   6369,        2
+
+机关兽★姑鸟时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti12-nan",       11014, 1,      件,  500,   6370,        2
+机关兽★姑鸟时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti12-nv",       12024, 2,      件,  500,   6370,        2
+
+凤凰时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti13-nan",       11014, 1,      件,  500,   6698 ,        2
+凤凰时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti13-nv",       12024, 2,      件,  500,   6698 ,        2
+
+瑶池仙姬时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti14-nan",       11014, 1,      件,  500,   20206,        2
+瑶池仙姬时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti14-nv",       12024, 2,      件,  500,   20206,        2
+
+机关兽★喵喵时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti15-nan",       11014, 1,      件,  500,   31038,        2
+机关兽★喵喵时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti15-nv",       12024, 2,      件,  500,   31038,        2
+
+大鹏金翅雕时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti16-nan",       11014, 1,      件,  500,   6346,        2
+大鹏金翅雕时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti16-nv",       12024, 2,      件,  500,   6346,        2
+
+神秘老头时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti17-nan",       11014, 1,      件,  500,   6058,        2
+神秘老头时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti17-nv",       12024, 2,      件,  500,   6058,        2
+
+迷你蜃精时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti18-nan",       11014, 1,      件,  500,   6664,        2
+迷你蜃精时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti18-nv",       12024, 2,      件,  500,   6664,        2
+
+金阿拉灯时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti117-nan",       11014, 1,      件,  500,   6331,        2
+金阿拉灯时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti117-nv",       12024, 2,      件,  500,   6331,        2
+
+绿阿拉灯时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti118-nan",       11014, 1,      件,  500,   6332,        2
+绿阿拉灯时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti118-nv",       12024, 2,      件,  500,   6332,        2
+
+蓝阿拉灯时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti1117-nan",       11014, 1,      件,  500,   6333,        2
+蓝阿拉灯时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti1117-nv",       12024, 2,      件,  500,   6333,        2
+
+火阿拉灯时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti11118-nan",       11014, 1,      件,  500,   6334,        2
+火阿拉灯时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti11118-nv",       12024, 2,      件,  500,   6334,        2
+
+土阿拉灯时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti27-nan",       11014, 1,      件,  500,   6335,        2
+土阿拉灯时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti27-nv",       12024, 2,      件,  500,   6335,        2
+
+鹰时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti28-nan",       11014, 1,      件,  500,   6123,        2
+鹰时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti28-nv",       12024, 2,      件,  500,    6123,        2
+
+狼时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti37-nan",       11014, 1,      件,  500,   6120,        2
+狼时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti37-nv",       12024, 2,      件,  500,    6120,        2
+
+老虎时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti38-nan",       11014, 1,      件,  500,   6121,        2
+老虎时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti38-nv",       12024, 2,      件,  500,    6121,        2
+
+巨蜥时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti47-nan",       11014, 1,      件,  500,   6132,        2
+巨蜥时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti47-nv",       12024, 2,      件,  500,    6132,        2
+
+石魔时装·男, 1,        1,              "dress",    "wedding_dress/dapaoheti48-nan",       11014, 1,      件,  500,   6142,        2
+石魔时装·女, 1,        1,              "dress",    "wedding_dress/dapaoheti48-nv",       12024, 2,      件,  500,    6142,        2
+
+桃精时装·男, 1,        1,              "dress",    "wedding_dress/tudi1-nan",       11014, 1,      件,  500,   6106,        2
+桃精时装·女, 1,        1,              "dress",    "wedding_dress/tudi1-nv",       12024, 2,      件,  500,    6106,        2
+
+柳鬼时装·男, 1,        1,              "dress",    "wedding_dress/tudi2-nan",       11014, 1,      件,  500,   6107,        2
+柳鬼时装·女, 1,        1,              "dress",    "wedding_dress/tudi2-nv",       12024, 2,      件,  500,    6107,        2
+
+白猿时装·男, 1,        1,              "dress",    "wedding_dress/laoda1-nan",       11014, 1,      件,  500,   6108,        2
+白猿时装·女, 1,        1,              "dress",    "wedding_dress/laoda1-nv",       12024, 2,      件,  500,   6108,        2
+
+蝙蝠时装·男, 1,        1,              "dress",    "wedding_dress/laoda2-nan",       11014, 1,      件,  500,   6116,        2
+蝙蝠时装·女, 1,        1,              "dress",    "wedding_dress/laoda2-nv",       12024, 2,      件,  500,   6116,        2
+
+乌龙时装·男, 1,        1,              "dress",    "wedding_dress/laoda3-nan",       11014, 1,      件,  500,   6117,        2     
+乌龙时装·女, 1,        1,              "dress",    "wedding_dress/laoda3-nv",       12024, 2,      件,  500,   6117,        2
+
+花妖时装·男, 1,        1,              "dress",    "wedding_dress/laoda4-nan",       11014, 1,      件,  500,   6128,        2     
+花妖时装·女, 1,        1,              "dress",    "wedding_dress/laoda4-nv",       12024, 2,      件,  500,   6128,        2
+
+炎龙时装·男, 1,        1,              "dress",    "wedding_dress/laoda5-nan",       11014, 1,      件,  500,   6118,        2     
+炎龙时装·女, 1,        1,              "dress",    "wedding_dress/laoda5-nv",       12024, 2,      件,  500,   6118,        2
+
+鱼人时装·男, 1,        1,              "dress",    "wedding_dress/laoda6-nan",       11014, 1,      件,  500,   6125,        2     
+鱼人时装·女, 1,        1,              "dress",    "wedding_dress/laoda6-nv",       12024, 2,      件,  500,   6125,        2
+
+冰龙时装·男, 1,        1,              "dress",    "wedding_dress/laoda7-nan",       11014, 1,      件,  500,   6119,        2     
+冰龙时装·女, 1,        1,              "dress",    "wedding_dress/laoda7-nv",       12024, 2,      件,  500,   6119,        2
+
+地裂兽时装·男, 1,        1,              "dress",    "wedding_dress/laoda8-nan",       11014, 1,      件,  500,   6131,        2     
+地裂兽时装·女, 1,        1,              "dress",    "wedding_dress/laoda8-nv",       12024, 2,      件,  500,   6131,        2
+
+青龙时装·男, 1,        1,              "dress",    "wedding_dress/laoda9-nan",       11014, 1,      件,  500,   6124,        2     
+青龙时装·女, 1,        1,              "dress",    "wedding_dress/laoda9-nv",       12024, 2,      件,  500,   6124,        2
+
+金头陀时装·男, 1,        1,              "dress",    "wedding_dress/laoda10-nan",       11014, 1,      件,  500,   6129,        2     
+金头陀时装·女, 1,        1,              "dress",    "wedding_dress/laoda10-nv",       12024, 2,      件,  500,   6129,        2
+
+黄龙时装·男, 1,        1,              "dress",    "wedding_dress/laoda11-nan",       11014, 1,      件,  500,   6127,        2     
+黄龙时装·女, 1,        1,              "dress",    "wedding_dress/laoda11-nv",       12024, 2,      件,  500,   6127,        2
+
+火鸦时装·男, 1,        1,              "dress",    "wedding_dress/laoda12-nan",       11014, 1,      件,  500,   6130,        2     
+火鸦时装·女, 1,        1,              "dress",    "wedding_dress/laoda12-nv",       12024, 2,      件,  500,   6130,        2
+
+屈魂时装·男, 1,        1,              "dress",    "wedding_dress/laoda13-nan",       11014, 1,      件,  500,   6140,        2     
+屈魂时装·女, 1,        1,              "dress",    "wedding_dress/laoda13-nv",       12024, 2,      件,  500,   6140,        2
+
+怨鬼时装·男, 1,        1,              "dress",    "wedding_dress/laoda14-nan",       11014, 1,      件,  500,   6141,        2     
+怨鬼时装·女, 1,        1,              "dress",    "wedding_dress/laoda14-nv",       12024, 2,      件,  500,   6141,        2
+
+粉衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda15-nan",       11014, 1,      件,  500,   6139,        2     
+粉衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda15-nv",       12024, 2,      件,  500,   6139,        2
+
+电精时装·男, 1,        1,              "dress",    "wedding_dress/laoda16-nan",       11014, 1,      件,  500,   6172,        2     
+电精时装·女, 1,        1,              "dress",    "wedding_dress/laoda16-nv",       12024, 2,      件,  500,   6172,        2
+
+青衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda17-nan",       11014, 1,      件,  500,   6134,        2     
+青衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda17-nv",       12024, 2,      件,  500,   6134,        2
+
+雨兽时装·男, 1,        1,              "dress",    "wedding_dress/laoda18-nan",       11014, 1,      件,  500,   6170,        2     
+雨兽时装·女, 1,        1,              "dress",    "wedding_dress/laoda18-nv",       12024, 2,      件,  500,   6170,        2
+
+黄衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda19-nan",       11014, 1,      件,  500,   6133,        2     
+黄衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda19-nv",       12024, 2,      件,  500,   6133,        2
+
+风怪时装·男, 1,        1,              "dress",    "wedding_dress/laoda20-nan",       11014, 1,      件,  500,   6169,        2     
+风怪时装·女, 1,        1,              "dress",    "wedding_dress/laoda20-nv",       12024, 2,      件,  500,   6169,        2
+
+红衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda21-nan",       11014, 1,      件,  500,   6136,        2     
+红衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda21-nv",       12024, 2,      件,  500,   6136,        2
+
+虹妖时装·男, 1,        1,              "dress",    "wedding_dress/laoda22-nan",       11014, 1,      件,  500,   6175,        2     
+虹妖时装·女, 1,        1,              "dress",    "wedding_dress/laoda22-nv",       12024, 2,      件,  500,   6175,        2
+
+紫衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda23-nan",       11014, 1,      件,  500,   6137,        2     
+紫衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda23-nv",       12024, 2,      件,  500,   6137,        2
+
+雪女时装·男, 1,        1,              "dress",    "wedding_dress/laoda24-nan",       11014, 1,      件,  500,   6173,        2     
+雪女时装·女, 1,        1,              "dress",    "wedding_dress/laoda24-nv",       12024, 2,      件,  500,   6173,        2
+
+蓝衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda25-nan",       11014, 1,      件,  500,   6138,        2     
+蓝衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda25-nv",       12024, 2,      件,  500,   6138,        2
+
+云兽时装·男, 1,        1,              "dress",    "wedding_dress/laoda26-nan",       11014, 1,      件,  500,   6174,        2     
+云兽时装·女, 1,        1,              "dress",    "wedding_dress/laoda26-nv",       12024, 2,      件,  500,   6174,        2
+
+白衣仙子时装·男, 1,        1,              "dress",    "wedding_dress/laoda27-nan",       11014, 1,      件,  500,   6135,        2     
+白衣仙子时装·女, 1,        1,              "dress",    "wedding_dress/laoda27-nv",       12024, 2,      件,  500,   6135,        2
+
+雷怪时装·男, 1,        1,              "dress",    "wedding_dress/laoda28-nan",       11014, 1,      件,  500,   6171,        2     
+雷怪时装·女, 1,        1,              "dress",    "wedding_dress/laoda28-nv",       12024, 2,      件,  500,   6171,        2
+
+石牛妖时装·男, 1,        1,              "dress",    "wedding_dress/laoda29-nan",       11014, 1,      件,  500,   6147,        2     
+石牛妖时装·女, 1,        1,              "dress",    "wedding_dress/laoda29-nv",       12024, 2,      件,  500,   6147,        2
+
+骷髅战将时装·男, 1,        1,              "dress",    "wedding_dress/laoda30-nan",       11014, 1,      件,  500,   6148,        2     
+骷髅战将时装·女, 1,        1,              "dress",    "wedding_dress/laoda30-nv",       12024, 2,      件,  500,   6148,        2
+
+蓝毛巨兽时装·男, 1,        1,              "dress",    "wedding_dress/laoda31-nan",       11014, 1,      件,  500,   6149,        2     
+蓝毛巨兽时装·女, 1,        1,              "dress",    "wedding_dress/laoda31-nv",       12024, 2,      件,  500,   6149,        2
+
+螳螂怪时装·男, 1,        1,              "dress",    "wedding_dress/laoda32-nan",       11014, 1,      件,  500,   6150,        2     
+螳螂怪时装·女, 1,        1,              "dress",    "wedding_dress/laoda32-nv",       12024, 2,      件,  500,   6150,        2
+
+三头巨犬时装·男, 1,        1,              "dress",    "wedding_dress/laoda33-nan",       11014, 1,      件,  500,   6151,        2     
+三头巨犬时装·女, 1,        1,              "dress",    "wedding_dress/laoda33-nv",       12024, 2,      件,  500,   6151,        2
+
+嗜血巨人时装·男, 1,        1,              "dress",    "wedding_dress/laoda34-nan",       11014, 1,      件,  500,   6152,        2     
+嗜血巨人时装·女, 1,        1,              "dress",    "wedding_dress/laoda34-nv",       12024, 2,      件,  500,   6152,        2
+
+炼魔时装·男, 1,        1,              "dress",    "wedding_dress/laoda35-nan",       11014, 1,      件,  500,   6153,        2     
+炼魔时装·女, 1,        1,              "dress",    "wedding_dress/laoda35-nv",       12024, 2,      件,  500,   6153,        2
+
+寒冰怪时装·男, 1,        1,              "dress",    "wedding_dress/laoda36-nan",       11014, 1,      件,  500,   6154,        2     
+寒冰怪时装·女, 1,        1,              "dress",    "wedding_dress/laoda36-nv",       12024, 2,      件,  500,   6154,        2
+
+虾兵时装·男, 1,        1,              "dress",    "wedding_dress/laoda37-nan",       11014, 1,      件,  500,   6163,        2     
+虾兵时装·女, 1,        1,              "dress",    "wedding_dress/laoda37-nv",       12024, 2,      件,  500,   6163,        2
+
+蟹将时装·男, 1,        1,              "dress",    "wedding_dress/laoda38-nan",       11014, 1,      件,  500,   6164,        2     
+蟹将时装·女, 1,        1,              "dress",    "wedding_dress/laoda38-nv",       12024, 2,      件,  500,   6164,        2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,147 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2786
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+金系装备奖励 : 100
+
+
+
+
+[金系装备奖励]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "龙冠1"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤冠1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "连环甲1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蛟皮袄1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影靴1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "飞龙圈1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥寒冰斧6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影弓6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "邪灵绝钩6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "噬魂魔爪6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "云龙枪6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "刺骨玄冥拳套6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "冰雪残月刀6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九黎剑6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蔽日扇6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "撼地锤6"})
+
+
+
+[龙冠1]
+name      : 星耀冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/wiz", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/dex", 27, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+[无影靴1]
+name      : 御风履
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/dex", 27, "prop/speed", 150, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/speed", 100, "prop3/mag_dodge",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+[凤冠1]
+name      : 凌波霞冠
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/wiz", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/dex", 27, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+[飞龙圈1]
+name      : 鱼皮宝甲圈
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/wiz", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/dex", 27, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+[连环甲1]
+name      : 瀚宇法袍
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/wiz", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/dex", 27, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+[蛟皮袄1]
+name      : 星晶法衣
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_attrib", 22, "prop/wiz", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/dex", 27, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+
+
+[撼地锤6]
+name      : 炼狱麒麟杵
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_confusion",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[玄冥寒冰斧6]
+name      : 烈焰凤头斧
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_lost",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[蔽日扇6]
+name      : 离火七翎扇
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_sleep",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[无影弓6]
+name      : 追魂嗜魄弓
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_lock",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[九黎剑6]
+name      : 紫青玄魔剑
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_frozen",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[邪灵绝钩6]
+name      : 屠魔追风戟
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_cage",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[噬魂魔爪6]
+name      : 七巧玲珑爪
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_poison",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[云龙枪6]
+name      : 九转金刚刃
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_forgotten",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[刺骨玄冥拳套6]
+name      : 鬼藏惊鸿拳套
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_melt",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+[冰雪残月刀6]
+name      : 沉虹连斩刀
+min_level : 110
+max_level : 110
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1780, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_repress",30,"color", 绿色,"suit_polar", 8,"rebuild_level", 0,"prop_suit/speed",78,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "dex","suit_level", 110,"suit_name", 110级火系套装})
+
+
+
+
+

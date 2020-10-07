@@ -1,0 +1,35 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+[特等奖]
+金系装备奖励 : 160
+
+                                            
+[金系装备奖励]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七杀6"})
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七杀7"})
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七杀8"})
+limit$: ({ "time_limit", "now", 259200 })
+
+
+
+[七杀6]
+name       : VIP铭牌
+attribs    : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/phy_power", 5800, "prop/mag_power", 5800, "prop2/all_polar", 5, "prop2/phy_power", 5800, "prop2/mag_power", 5800,"color", 金色, "durability", 10000})
+
+
+[七杀7]
+name       :  绫罗幻形镜
+attribs    : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/phy_power", 5800, "prop/mag_power", 5800, "prop2/all_polar", 5, "prop2/phy_power", 5800, "prop2/mag_power", 5800,"color", 金色, "durability", 10000})
+
+
+[七杀8]
+name       : 鸾凤宝玉
+attribs    : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop/phy_power", 5800, "prop/mag_power", 5800, "prop2/all_polar", 5, "prop2/phy_power", 5800, "prop2/mag_power", 5800,"color", 金色, "durability", 10000})

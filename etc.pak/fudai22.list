@@ -1,0 +1,45 @@
+#FORM2
+#jinnang.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+15  : 1000
+
+
+[15]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "枯月流魂15"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "炫影霜星15"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "风寂云清15"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凝香幻彩15"})
+
+
+
+[枯月流魂15]
+name      : 枯月流魂
+min_level : 15
+max_level : 15
+attribs      : ({ "prop/phy_power", 17000, "prop/mag_power", 17000 })
+
+[炫影霜星15]
+name      : 炫影霜星
+min_level : 15
+max_level : 15
+attribs      : ({ "prop/speed", 550 })
+
+[风寂云清15]
+name      : 风寂云清
+min_level : 15
+max_level : 15
+attribs      : ({ "prop/def", 8000 })
+
+[凝香幻彩15]
+name      : 凝香幻彩
+min_level : 15
+max_level : 15
+attribs      : ({ "prop/max_life", 27000 })

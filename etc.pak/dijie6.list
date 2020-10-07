@@ -1,0 +1,293 @@
+#FORM2
+
+[¾ÅÑ×ÁéÊó]
+name                : ¾ÅÑ×ÁéÊó
+icon                : 6143
+portrait            : 6143
+level               : 109
+polar               : 4
+religion            : -1
+resist_metal        : 50
+resist_wood         : 50
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 50
+life_effect         : 20000
+phy_effect          : 50
+mag_effect          : 2500
+speed_effect        : 100
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 80
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+monster_num         : 2
+comrades            : ({ "¾ÅÑ×êòÊó", "¾ÅÑ×ÈôÊó" })
+comrades_num        : ({ 1, 1 })
+skills              : ({ "B4", "B5" })
+monster_mark        : "jiuyanlingshu"
+tactics_monster     : "tactics_jiuyanlingshu"
+combat_trigger      : "combat_trigger_jiuyanlingshu"
+
+[¾ÅÑ×êòÊó]
+name                : ¾ÅÑ×êòÊó
+icon                : 6143
+portrait            : 6143
+level               : 109
+polar               : 4
+religion            : -1
+resist_metal        : 50
+resist_wood         : 50
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 50
+life_effect         : 15000
+phy_effect          : 1800
+mag_effect          : 50
+speed_effect        : 120
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 80
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+double_hit_rate     : 20
+double_hit          : 3
+stunt_rate          : 20
+skills              : ({ "B5","D5" })
+monster_mark        : "jiuyanpinshu"
+sf_die              : "sf_die_jiuyanpinshu"
+tactics_monster     : "tactics_jiuyanpinshu"
+
+[¾ÅÑ×ÈôÊó]
+name                : ¾ÅÑ×ÈôÊó
+icon                : 6143
+portrait            : 6143
+level               : 109
+resist_metal        : 50
+resist_wood         : 50
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 50
+life_effect         : 1000
+phy_effect          : 1000
+speed_effect        : 1000
+tao_effect          : 1000
+resist_forgotten    : 150
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 150
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+skills              : ({ "hunqian-mengying" })
+monster_mark        : "jiuyanruoshu"
+sf_skill_success    : "sf_skill_success"
+sf_die              : "sf_die_jiuyanruoshu"
+tactics_monster     : "tactics_jiuyanruoshu"
+
+[·è¿ñµÄ¾ÅÑ×ÁéÊó]
+name                : ·è¿ñµÄ¾ÅÑ×ÁéÊó
+icon                : 6143
+portrait            : 6143
+level               : 109
+polar               : 4
+religion            : -1
+resist_metal        : 100
+resist_wood         : 100
+resist_water        : 100
+resist_fire         : 100
+resist_earth        : 100
+life_effect         : 30000
+phy_effect          : 50
+mag_effect          : 300
+speed_effect        : 100
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 80
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+skills              : ({ "B5" })
+monster_mark        : "jiuyanlingshu"
+tactics_monster     : "tactics_jiuyanlingshu_advance"
+
+[±©Å­µÄ¾ÅÑ×êòÊó]
+name                : ±©Å­µÄ¾ÅÑ×êòÊó
+icon                : 6143
+portrait            : 6143
+level               : 109
+resist_metal        : 20
+resist_wood         : 20
+resist_water        : 20
+resist_fire         : 20
+resist_earth        : 20
+life_effect         : 10000
+phy_effect          : 2000
+mag_effect          : 500
+speed_effect        : 120
+tao_effect          : 1000
+resist_forgotten    : 80
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 20
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+double_hit_rate     : 60
+double_hit          : 6
+stunt_rate          : 60
+counter_attack_rate : 100
+counter_attack      : 2
+monster_mark        : "jiuyanpinshu"
+sf_die              : "sf_die_jiuyanpinshu"
+tactics_monster     : "tactics_jiuyanpinshu_advance"
+
+[ôáÎ²ÉñÑà]
+name                : ôáÎ²ÉñÑà
+icon                : 6144
+portrait            : 6144
+level               : 109
+polar               : 5
+religion            : -1
+life_effect         : 20000
+phy_effect          : 1200
+mag_effect          : 1200
+resist_forgotten    : 100
+resist_poison       : 300
+resist_frozen       : 300
+resist_sleep        : 300
+resist_confusion    : 300
+resist_repress      : 100
+resist_melt         : 300
+resist_cage         : 300
+resist_lock         : 300
+resist_lost         : 300
+double_hit_rate     : 20
+double_hit          : 3
+monster_num         : 4
+comrades            : ({ "ôáÎ²ÉñÑà" })
+comrades_num        : ({ 4 })
+skills              : ({ "B4", "B5" })
+combat_trigger      : "combat_trigger_lingweishenyan"
+sf_die              : "sf_die_lingweishenyan"
+tactics_monster     : "tactics_lingweishenyan"
+
+[Ñ×Éñ]
+name                : Ñ×Éñ
+icon                : 6235
+portrait            : 6235
+level               : 109
+polar               : 4
+religion            : -1
+resist_metal        : 120
+resist_wood         : 80
+resist_water        : -200
+resist_fire         : 120
+resist_earth        : 80
+life_effect         : 25000
+phy_effect          : 500
+mag_effect          : 5000
+speed_effect        : 100
+resist_forgotten    : 600
+resist_poison       : 600
+resist_frozen       : 80
+resist_sleep        : 600
+resist_confusion    : 600
+resist_repress      : 600
+resist_melt         : 600
+resist_cage         : 80
+resist_lock         : 600
+resist_lost         : 600
+monster_num         : 9
+comrades            : ({ "ÆÆĞ°Ìì±ø", "ÖïÄ§Ìì±ø" })
+comrades_num        : ({ -1, -1 })
+skills              : ({ "B4", "B5" })
+special_skills      : ({ "ÓÎËµÖ®Éà" })
+special_skills_level: 500
+sf_skill_success    : "sf_skill_success"
+tactics_monster     : "tactics_yanshen"
+combat_trigger      : "combat_trigger_yanshen"
+
+[ÆÆĞ°Ìì±ø]
+name                : ÆÆĞ°Ìì±ø
+icon                : 6223
+portrait            : 6223
+level               : 109
+resist_metal        : 20
+resist_wood         : 20
+resist_water        : 20
+resist_fire         : 20
+resist_earth        : 20
+life_effect         : 20000
+phy_effect          : 1500
+speed_effect        : 350
+resist_forgotten    : 60
+resist_poison       : 600
+resist_frozen       : 600
+resist_sleep        : 600
+resist_confusion    : 600
+resist_repress      : 60
+resist_melt         : 600
+resist_cage         : 600
+resist_lock         : 600
+resist_lost         : 600
+double_hit_rate     : 20
+double_hit          : 2
+stunt_rate          : 20
+special_skills      : ({ "ÉñÁúÕÖ" })
+special_skills_level: 180
+tactics_monster     : "tactics_poxietianbing"
+
+[ÖïÄ§Ìì±ø]
+name                : ÖïÄ§Ìì±ø
+icon                : 6224
+portrait            : 6224
+level               : 109
+polar               : 4
+religion            : -1
+resist_metal        : 50
+resist_wood         : 50
+resist_water        : 50
+resist_fire         : 50
+resist_earth        : 50
+life_effect         : 20000
+phy_effect          : 6000
+mag_effect          : 1500
+speed_effect        : 50
+resist_forgotten    : 60
+resist_poison       : 600
+resist_frozen       : 600
+resist_sleep        : 600
+resist_confusion    : 600
+resist_repress      : 20
+resist_melt         : 600
+resist_cage         : 600
+resist_lock         : 600
+resist_lost         : 600
+skills              : ({ "B4" })
+special_skills      : ({ "ÈçÒâÈ¦" })
+special_skills_level: 180
+tactics_monster     : "tactics_zhumotianbing"

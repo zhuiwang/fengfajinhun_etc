@@ -1,0 +1,289 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+法宝2 : 1
+
+
+[法宝2]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "定海珠1","定海珠2","定海珠3","定海珠4","定海珠5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "定海珠1","定海珠2","定海珠3","定海珠4","定海珠5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "混元金斗1","混元金斗2","混元金斗3","混元金斗4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "混元金斗1","混元金斗2","混元金斗3","混元金斗4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "混沌钟1","混沌钟2","混沌钟3","混沌钟4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "番天印1","番天印2","番天印3","番天印4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "混沌钟1","混沌钟2","混沌钟3","混沌钟4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "番天印1","番天印2","番天印3","番天印4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "卸甲金葫1","卸甲金葫2","卸甲金葫3","卸甲金葫4","卸甲金葫5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "十二品莲台1","十二品莲台2","十二品莲台3","十二品莲台4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "卸甲金葫1","卸甲金葫2","卸甲金葫3","卸甲金葫4","卸甲金葫5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "十二品莲台1","十二品莲台2","十二品莲台3","十二品莲台4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "七宝妙树1","七宝妙树2" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九龙神火罩1","九龙神火罩2","九龙神火罩3","九龙神火罩4","九龙神火罩5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "阴阳镜1","阴阳镜2","阴阳镜3","阴阳镜4","阴阳镜5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蛟剪1","金蛟剪2","金蛟剪3","金蛟剪4" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九龙神火罩1","九龙神火罩2","九龙神火罩3","九龙神火罩4","九龙神火罩5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "阴阳镜1","阴阳镜2","阴阳镜3","阴阳镜4","阴阳镜5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金蛟剪1","金蛟剪2","金蛟剪3","金蛟剪4" })
+
+####################################################
+[定海珠1]
+name      : 定海珠
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 1, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1435, "nimbus", 400000 })
+
+[定海珠2]
+name      : 定海珠
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 2, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1435, "nimbus", 400000 })
+
+[定海珠3]
+name      : 定海珠
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 3, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1435, "nimbus", 400000 })
+
+[定海珠4]
+name      : 定海珠
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 4, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1435, "nimbus", 400000 })
+
+[定海珠5]
+name      : 定海珠
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 5, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1435, "nimbus", 400000 })
+
+
+[混元金斗1]
+name      : 混元金斗
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 5, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1436, "nimbus", 400000 })
+
+[混元金斗2]
+name      : 混元金斗
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 2, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1436, "nimbus", 400000 })
+
+[混元金斗3]
+name      : 混元金斗
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 3, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1436, "nimbus", 400000 })
+
+[混元金斗4]
+name      : 混元金斗
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 4, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1436, "nimbus", 400000 })
+
+
+[混沌钟1]
+name      : 混沌钟
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 1, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1448, "nimbus", 400000 })
+
+[混沌钟2]
+name      : 混沌钟
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 2, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1448, "nimbus", 400000 })
+
+[混沌钟3]
+name      : 混沌钟
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 3, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1448, "nimbus", 400000 })
+
+[混沌钟4]
+name      : 混沌钟
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 4, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1448, "nimbus", 400000 })
+
+[番天印1]
+name      : 番天印
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 1, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1441, "nimbus", 400000 })
+
+[番天印2]
+name      : 番天印
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 2, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1441, "nimbus", 400000 })
+
+[番天印3]
+name      : 番天印
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 3, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1441, "nimbus", 400000 })
+
+[番天印4]
+name      : 番天印
+min_level : 24
+max_level : 24
+attribs      : ({"item_polar", 4, "extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1441, "nimbus", 400000 })
+
+[卸甲金葫1]
+name      : 卸甲金葫
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 1,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1439, "nimbus", 400000 })
+
+[卸甲金葫2]
+name      : 卸甲金葫
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1439, "nimbus", 400000 })
+
+[卸甲金葫3]
+name      : 卸甲金葫
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1439, "nimbus", 400000 })
+
+[卸甲金葫4]
+name      : 卸甲金葫
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 4,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1439, "nimbus", 400000 })
+
+[卸甲金葫5]
+name      : 卸甲金葫
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 5,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1439, "nimbus", 400000 })
+
+[十二品莲台1]
+name      : 十二品莲台
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 5,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1447, "nimbus", 400000 })
+
+[十二品莲台2]
+name      : 十二品莲台
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1447, "nimbus", 400000 })
+
+[十二品莲台3]
+name      : 十二品莲台
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1447, "nimbus", 400000 })
+
+[十二品莲台4]
+name      : 十二品莲台
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 4,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1447, "nimbus", 400000 })
+
+[七宝妙树1]
+name      : 七宝妙树
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1449, "nimbus", 400000 })
+
+[七宝妙树2]
+name      : 七宝妙树
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1449, "nimbus", 400000 })
+
+[九龙神火罩1]
+name      : 九龙神火罩
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 1,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1440, "nimbus", 400000 })
+
+[九龙神火罩2]
+name      : 九龙神火罩
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1440, "nimbus", 400000 })
+
+[九龙神火罩3]
+name      : 九龙神火罩
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1440, "nimbus", 400000 })
+
+[九龙神火罩4]
+name      : 九龙神火罩
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 4,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1440, "nimbus", 400000 })
+
+[九龙神火罩5]
+name      : 九龙神火罩
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 5,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1440, "nimbus", 400000 })
+
+[阴阳镜1]
+name      : 阴阳镜
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 1,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1438, "nimbus", 400000 })
+
+[阴阳镜2]
+name      : 阴阳镜
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1438, "nimbus", 400000 })
+
+[阴阳镜3]
+name      : 阴阳镜
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1438, "nimbus", 400000 })
+
+[阴阳镜4]
+name      : 阴阳镜
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 4,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1438, "nimbus", 400000 })
+
+[阴阳镜5]
+name      : 阴阳镜
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 5,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1438, "nimbus", 400000 })
+
+[金蛟剪1]
+name      : 金蛟剪
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 5,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1437, "nimbus", 400000 })
+
+[金蛟剪2]
+name      : 金蛟剪
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 2,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1437, "nimbus", 400000 })
+
+[金蛟剪3]
+name      : 金蛟剪
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 3,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1437, "nimbus", 400000 })
+
+[金蛟剪4]
+name      : 金蛟剪
+min_level : 24
+max_level : 24
+attribs      : ({ "item_polar", 4,"extra_skill", "qinmi_wujian", "extra_skill_level", 3, "upgraded", 1, "icon", 1437, "nimbus", 400000 })
+

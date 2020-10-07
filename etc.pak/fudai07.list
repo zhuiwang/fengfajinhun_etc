@@ -1,0 +1,581 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+相5首饰 : 1
+
+[相5首饰]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "菩提镜明1","菩提镜明2","菩提镜明3","菩提镜明6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "洛神回雪1","洛神回雪2","洛神回雪3","菩提镜明6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "屠龙封魔1","屠龙封魔2","屠龙封魔3","菩提镜明6" })
+
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "菩提镜明11","菩提镜明8" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "洛神回雪11","洛神回雪8" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "屠龙封魔11","屠龙封魔8" })
+
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "菩提镜明1","菩提镜明2","菩提镜明3","菩提镜明4","菩提镜明5","菩提镜明6","菩提镜明7","菩提镜明8","菩提镜明9","菩提镜明10","菩提镜明11","菩提镜明12","菩提镜明13","菩提镜明14" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "洛神回雪1","洛神回雪2","洛神回雪3","洛神回雪4","洛神回雪5","洛神回雪6","洛神回雪7","洛神回雪8","洛神回雪9","洛神回雪10","洛神回雪11","洛神回雪12","洛神回雪13","洛神回雪14" })
+bonus$:  ({ 0, 0, 100, "属性道具", 2, 2, "屠龙封魔1","屠龙封魔2","屠龙封魔3","屠龙封魔6","屠龙封魔7","屠龙封魔8","屠龙封魔9","屠龙封魔10","屠龙封魔11","屠龙封魔12","屠龙封魔13"})
+
+
+[菩提镜明1]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[菩提镜明2]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[菩提镜明3]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[菩提镜明4]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_polar", 15,"prop2/all_resist_polar", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[菩提镜明5]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_except", 15,"prop2/all_resist_except", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[菩提镜明6]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[菩提镜明7]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[菩提镜明8]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[菩提镜明9]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[菩提镜明10]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[菩提镜明11]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[菩提镜明12]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/con", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/con", 40})
+
+[菩提镜明13]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/dex", 40})
+
+[菩提镜明14]
+name      : 菩提镜明
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/phy_absorb", -10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/phy_absorb", -10,"prop2/dex", 40})
+
+[洛神回雪1]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[洛神回雪2]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[洛神回雪3]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[洛神回雪4]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_polar", 15,"prop2/all_resist_polar", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[洛神回雪5]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_except", 15,"prop2/all_resist_except", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[洛神回雪6]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[洛神回雪7]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[洛神回雪8]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[洛神回雪9]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[洛神回雪10]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[洛神回雪11]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[洛神回雪12]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/con", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/con", 40})
+
+[洛神回雪13]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/dex", 40})
+
+[洛神回雪14]
+name      : 洛神回雪
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/phy_absorb", -10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/phy_absorb", -10,"prop2/dex", 40})
+
+[屠龙封魔1]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔2]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔3]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔40]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/all_skill", 10, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔41]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/all_skill", 10, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔42]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/all_skill", 10, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔43]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/all_skill", 10, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔44]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/all_skill", 10, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+[屠龙封魔45]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/all_skill", 10, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔46]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/all_skill", 10, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔47]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/all_skill", 10, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔48]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/all_skill", 10, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[屠龙封魔49]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/all_skill", 10, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+##############################
+[屠龙封魔50]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/dex", 40, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔51]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/dex", 40, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔52]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/dex", 40, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔53]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/dex", 40, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔54]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/dex", 40, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+[屠龙封魔55]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/dex", 40, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔56]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/dex", 40, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔57]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/dex", 40, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔58]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/dex", 40, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[屠龙封魔59]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/dex", 40, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+##############################
+
+[屠龙封魔6]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5,  "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[屠龙封魔7]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[屠龙封魔8]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[屠龙封魔9]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[屠龙封魔10]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[屠龙封魔11]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[屠龙封魔12]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop2/con", 40, "prop2/all_polar", 5,  "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[屠龙封魔13]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop2/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[屠龙封魔140]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/con", 40, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔141]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/con", 40, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔142]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/con", 40, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔143]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/con", 40, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔144]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/con", 40, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+[屠龙封魔145]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/con", 40, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔146]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/con", 40, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔147]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/con", 40, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔148]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/con", 40, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[屠龙封魔149]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/con", 40, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+
+[屠龙封魔150]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔151]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔152]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔153]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔154]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+[屠龙封魔155]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔156]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔157]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔158]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[屠龙封魔159]
+name      : 屠龙封魔
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+
+

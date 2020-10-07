@@ -1,0 +1,364 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+奖励 : 100
+
+
+[奖励]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "北极熊","翠灵剑","云豹","古鹿","翡翠葫芦"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "重明", "乘黄", "風狸", "白泽" , "当康", "招财猪", "伶俐鼠", "龟宝", "乘黄", "白泽"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "青蛙"})
+bonus$:  ({ 0, 0, 100, "属性道具", 20, 20, "宝宝玲珑丹2" })
+
+[神兽]
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "朱雀", "玄武", "东山神灵", "疆良", "九尾狐", "句芒", "玄冥", "祝融", "后土", "勾陈", "穷奇"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "朱雀"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "九尾狐"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "疆良"})
+bonus$:  ({ 0, 0, 100, "宠物", 1, 1, "勾陈"})
+
+[宝宝玲珑丹]
+name : 宝宝玲珑丹
+attribs : ({"add_pet_exp",100000000})
+
+[宝宝玲珑丹2]
+name : 宝宝玲珑丹
+attribs : ({"add_pet_exp",10000})
+
+[青蛙]
+name$: ({青蛙, 青蛙})
+rank$: 宝宝
+level: 125
+enchant_flag : 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 50, 50 })
+martial: ({ 10000000, 20000000 })
+
+[北极熊]
+name$: ({ 北极熊, 北极熊 })
+rank$: 御灵
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+
+[翠灵剑]
+name$: ({ 翠灵剑, 翠灵剑 })
+rank$: 御灵
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+
+[云豹]
+name$: ({ 云豹, 云豹 })
+rank$: 御灵
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+
+[古鹿]
+name$: ({ 古鹿, 古鹿 })
+rank$: 御灵
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+
+[翡翠葫芦]
+name$: ({ 翡翠葫芦, 翡翠葫芦 })
+rank$: 御灵
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+
+[朱雀]
+name$: ({ 朱雀, 朱雀 })
+rank$: 神兽
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[玄武]
+name$: ({ 玄武, 玄武 })
+rank$: 神兽
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 30, 30 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 30, 30 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[东山神灵]
+name$: ({ 东山神灵, 东山神灵 })
+rank$: 神兽
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 40, 40 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[疆良]
+name$: ({ 疆良, 疆良 })
+rank$: 神兽
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ -35, -35 })
+speed_effect: ({ 30, 30 })
+phy_effect: ({ 100, 100 })
+mag_effect: ({ -40, -40 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[九尾狐]
+name$: ({ 九尾狐, 九尾狐 })
+rank$: 神兽
+level: 1
+life_effect: ({ 55, 55 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 35, 35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[蓐收]
+name$: ({ 蓐收, 蓐收 })
+rank$: 神兽
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 30, 30 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 40, 40 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[句芒]
+name$: ({ 句芒, 句芒 })
+rank$: 神兽
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 25, 25 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[玄冥]
+name$: ({ 玄冥, 玄冥 })
+rank$: 神兽
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[祝融]
+name$: ({ 祝融, 祝融 })
+rank$: 神兽
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 45, 45 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 25, 25 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[后土]
+name$: ({ 后土, 后土 })
+rank$: 神兽
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 25, 25 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 30, 30 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[勾陈]
+name$: ({ 勾陈, 勾陈 })
+rank$: 神兽
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 35, 35 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 45, 45 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[穷奇]
+name$: ({ 穷奇, 穷奇 })
+rank$: 神兽
+level: 1
+life_effect: ({ 80, 80 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -50, -50 })
+mag_effect: ({ 40, 40 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[重明]
+name$: ({ 重明, 重明 })
+rank$: 变异
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 40, 40 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[乘黄]
+name$: ({ 乘黃, 乘黃 })
+rank$: 变异
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 20, 20 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[風狸]
+name$: ({ 風狸, 風狸 })
+rank$: 变异
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 25, 25 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[白泽]
+name$: ({ 白泽, 白泽 })
+rank$: 变异
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 20, 20 })
+mag_effect: ({ -35, -35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[当康]
+name$: ({ 当康, 当康 })
+rank$: 变异
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ 40, 40 })
+mag_effect: ({ -35, -35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[招财猪]
+name$: ({ 招财猪, 招财猪 })
+rank$: 变异
+level: 1
+life_effect: ({ 75, 75 })
+mana_effect: ({ 35, 35 })
+speed_effect: ({ 5, 5 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 25, 25 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[伶俐鼠]
+name$: ({ 伶俐鼠, 伶俐鼠 })
+rank$: 变异
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 50, 50 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 30, 30 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[龟宝]
+name$: ({ 龟宝, 龟宝 })
+rank$: 变异
+level: 1
+life_effect: ({ 70, 70 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 15, 15 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 35, 35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[乘黄]
+name$: ({ 乘黄, 乘黄 })
+rank$: 变异
+level: 1
+life_effect: ({ 60, 60 })
+mana_effect: ({ 20, 20 })
+speed_effect: ({ 40, 40 })
+phy_effect: ({ -40, -40 })
+mag_effect: ({ 20, 20 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"
+
+[白泽]
+name$: ({ 白泽, 白泽 })
+rank$: 变异
+level: 1
+life_effect: ({ 65, 65 })
+mana_effect: ({ -10, -10 })
+speed_effect: ({ 20, 20 })
+phy_effect: ({ 20, 20 })
+mag_effect: ({ -35, -35 })
+martial: ({ 10000000, 20000000 })
+channel_msg : "#$PLAYER#n打开#锦囊#n时得到了$EX_PET的奖励！真是鸿运当头啊！"

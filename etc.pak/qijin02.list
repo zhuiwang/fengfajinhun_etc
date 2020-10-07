@@ -1,0 +1,163 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/1706
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+金系装备奖励 : 100
+
+
+
+
+[金系装备奖励]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "龙冠1"})
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤冠1" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "连环甲1" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蛟皮袄1" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影靴1" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "飞龙圈1" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥寒冰斧6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影弓6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "邪灵绝钩6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "噬魂魔爪6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "云龙枪6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "刺骨玄冥拳套6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "冰雪残月刀6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九黎剑6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蔽日扇6" })
+limit$: ({ "time_limit", "now", 259200 })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "撼地锤6"})
+limit$: ({ "time_limit", "now", 259200 })
+
+
+
+[龙冠1]
+name      : 乾坤冠
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+[无影靴1]
+name      : 疾风履
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/mag_dodge",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+[凤冠1]
+name      : 鱼尾冠
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+[飞龙圈1]
+name      : 大叶金圈
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+[连环甲1]
+name      : 八卦衣
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+[蛟皮袄1]
+name      : 狐皮袄
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_attrib", 15, "prop/con", 17, "prop/def", 330, "prop2/all_attrib", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/con", 17, "prop3/all_resist_except",15,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/def", 2784, "prop_rebuild/max_life", 3708,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+
+
+[撼地锤6]
+name      : 晃金锤
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_confusion",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[玄冥寒冰斧6]
+name      : 翡翠双刃
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_lost",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[蔽日扇6]
+name      : 流云扇
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_sleep",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[无影弓6]
+name      : 火焰弓
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_lock",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[九黎剑6]
+name      : 追魂剑
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_frozen",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[邪灵绝钩6]
+name      : 青花无双戟
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_cage",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[噬魂魔爪6]
+name      : 幽冥鬼爪
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_poison",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[云龙枪6]
+name      : 暴雨梨花枪
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_forgotten",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[刺骨玄冥拳套6]
+name      : 铁扇连环拳套
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_melt",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+[冰雪残月刀6]
+name      : 庖丁解牛刀
+min_level : 70
+max_level : 70
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 17, "prop3/super_repress",30,"color", 绿色,"suit_polar", 2,"rebuild_level", 12,"prop_suit/max_life", 1657,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 5764,"prop_rebuild/mag_power", 5764,"prop_resonance", "con","suit_level", 70,"suit_name", 70级木系套装})
+
+
+
+
+

@@ -1,0 +1,574 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/22/2706
+#½±ÀøÎïÆ·        ¸ÅÂÊ
+
+[½±ÀøµÈ¼¶]
+name$: ÌØµÈ½±
+
+
+[ÌØµÈ½±]
+Ïà5Ê×ÊÎ : 1
+
+[Ïà5Ê×ÊÎ]
+bonus$:  ({ 0, 0, 100, "ÊôĞÔµÀ¾ß", 2, 2, "ÍÀÁú·âÄ§40","ÍÀÁú·âÄ§41","ÍÀÁú·âÄ§42","ÍÀÁú·âÄ§43","ÍÀÁú·âÄ§44","ÍÀÁú·âÄ§45","ÍÀÁú·âÄ§46","ÍÀÁú·âÄ§47","ÍÀÁú·âÄ§48","ÍÀÁú·âÄ§49"})
+bonus$:  ({ 0, 0, 100, "ÊôĞÔµÀ¾ß", 2, 2, "ÍÀÁú·âÄ§50","ÍÀÁú·âÄ§51","ÍÀÁú·âÄ§52","ÍÀÁú·âÄ§53","ÍÀÁú·âÄ§54","ÍÀÁú·âÄ§55","ÍÀÁú·âÄ§56","ÍÀÁú·âÄ§57","ÍÀÁú·âÄ§58","ÍÀÁú·âÄ§59"})
+bonus$:  ({ 0, 0, 100, "ÊôĞÔµÀ¾ß", 2, 2, "ÍÀÁú·âÄ§140","ÍÀÁú·âÄ§141","ÍÀÁú·âÄ§142","ÍÀÁú·âÄ§143","ÍÀÁú·âÄ§144","ÍÀÁú·âÄ§145","ÍÀÁú·âÄ§146","ÍÀÁú·âÄ§147","ÍÀÁú·âÄ§148","ÍÀÁú·âÄ§149"})
+bonus$:  ({ 0, 0, 100, "ÊôĞÔµÀ¾ß", 2, 2, "ÍÀÁú·âÄ§150","ÍÀÁú·âÄ§151","ÍÀÁú·âÄ§152","ÍÀÁú·âÄ§153","ÍÀÁú·âÄ§154"})
+bonus$:  ({ 0, 0, 100, "ÊôĞÔµÀ¾ß", 2, 2, "ÍÀÁú·âÄ§155","ÍÀÁú·âÄ§156","ÍÀÁú·âÄ§157","ÍÀÁú·âÄ§158","ÍÀÁú·âÄ§159"})
+
+[ÆĞÌá¾µÃ÷1]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÆĞÌá¾µÃ÷2]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÆĞÌá¾µÃ÷3]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÆĞÌá¾µÃ÷4]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_polar", 15,"prop2/all_resist_polar", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[ÆĞÌá¾µÃ÷5]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_except", 15,"prop2/all_resist_except", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[ÆĞÌá¾µÃ÷6]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[ÆĞÌá¾µÃ÷7]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[ÆĞÌá¾µÃ÷8]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[ÆĞÌá¾µÃ÷9]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[ÆĞÌá¾µÃ÷10]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[ÆĞÌá¾µÃ÷11]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[ÆĞÌá¾µÃ÷12]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/con", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/con", 40})
+
+[ÆĞÌá¾µÃ÷13]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/dex", 40})
+
+[ÆĞÌá¾µÃ÷14]
+name      : ÆĞÌá¾µÃ÷
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/phy_absorb", -10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/phy_absorb", -10,"prop2/dex", 40})
+
+[ÂåÉñ»ØÑ©1]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÂåÉñ»ØÑ©2]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÂåÉñ»ØÑ©3]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÂåÉñ»ØÑ©4]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_polar", 15,"prop2/all_resist_polar", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[ÂåÉñ»ØÑ©5]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_resist_except", 15,"prop2/all_resist_except", 15, "prop2/all_polar", 5, "prop/con", 40,"prop2/con", 40 })
+
+[ÂåÉñ»ØÑ©6]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[ÂåÉñ»ØÑ©7]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[ÂåÉñ»ØÑ©8]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[ÂåÉñ»ØÑ©9]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[ÂåÉñ»ØÑ©10]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[ÂåÉñ»ØÑ©11]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[ÂåÉñ»ØÑ©12]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/con", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/con", 40})
+
+[ÂåÉñ»ØÑ©13]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop2/dex", 40})
+
+[ÂåÉñ»ØÑ©14]
+name      : ÂåÉñ»ØÑ©
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/phy_absorb", -10,"prop/dex", 40, "prop2/all_polar", 5, "prop2/phy_absorb", -10,"prop2/dex", 40})
+
+[ÍÀÁú·âÄ§1]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/all_skill", 10, "prop2/dex", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§2]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/all_skill", 10, "prop2/wiz", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§3]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop/all_skill", 10, "prop2/con", 40, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§40]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/all_skill", 10, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§41]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/all_skill", 10, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§42]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/all_skill", 10, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§43]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/all_skill", 10, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§44]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/all_skill", 10, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+[ÍÀÁú·âÄ§45]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/all_skill", 10, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§46]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/all_skill", 10, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§47]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/all_skill", 10, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§48]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/all_skill", 10, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+[ÍÀÁú·âÄ§49]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/all_skill", 10, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/all_skill", 10 })
+
+##############################
+[ÍÀÁú·âÄ§50]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/dex", 40, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§51]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/dex", 40, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§52]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/dex", 40, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§53]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/dex", 40, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§54]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/dex", 40, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+[ÍÀÁú·âÄ§55]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/dex", 40, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§56]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/dex", 40, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§57]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/dex", 40, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§58]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/dex", 40, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§59]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/dex", 40, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/dex", 40 })
+
+##############################
+
+[ÍÀÁú·âÄ§6]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop2/str", 40, "prop2/all_polar", 5,  "prop2/all_skill", 10,"prop/all_skill", 10 })
+
+[ÍÀÁú·âÄ§7]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/str", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§8]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop/str", 40, "prop2/all_polar", 5, "prop2/str", 40,"prop2/dex", 40 })
+
+[ÍÀÁú·âÄ§9]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop2/wiz", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[ÍÀÁú·âÄ§10]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/con", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/con", 40})
+
+[ÍÀÁú·âÄ§11]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/wiz", 40,"prop/dex", 40, "prop2/all_polar", 5, "prop2/wiz", 40,"prop2/dex", 40})
+
+[ÍÀÁú·âÄ§12]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/con", 40,"prop2/con", 40, "prop2/all_polar", 5,  "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[ÍÀÁú·âÄ§13]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/dex", 40,"prop2/dex", 40, "prop2/all_polar", 5, "prop2/all_skill", 10,"prop/all_skill", 10})
+
+[ÍÀÁú·âÄ§140]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/con", 40, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§141]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/con", 40, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§142]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/con", 40, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§143]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/con", 40, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§144]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/con", 40, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+[ÍÀÁú·âÄ§145]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/con", 40, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§146]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/con", 40, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§147]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/con", 40, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§148]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/con", 40, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+[ÍÀÁú·âÄ§149]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/con", 40, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/con", 40 })
+
+
+[ÍÀÁú·âÄ§150]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_forgotten", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_forgotten", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§151]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_poison", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_poison", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§152]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_frozen", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_frozen", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§153]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_sleep", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_sleep", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§154]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_confusion", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_confusion", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+[ÍÀÁú·âÄ§155]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_repress", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_repress", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§156]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_melt", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_melt", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§157]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_cage", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_cage", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§158]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lock", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_lock", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+[ÍÀÁú·âÄ§159]
+name      : ÍÀÁú·âÄ§
+min_level : 160
+max_level : 160
+upgrade_type : 6
+attribs      : ({ "prop/all_polar", 5, "prop/ignore_resist_lost", 30,"prop/ignore_all_resist_except", 20, "prop2/ignore_resist_lost", 30, "prop2/all_polar", 5,"prop2/ignore_all_resist_except", 20 })
+
+
+

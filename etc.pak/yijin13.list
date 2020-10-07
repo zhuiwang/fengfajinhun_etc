@@ -1,0 +1,146 @@
+#FORM2
+#zhuangb.list
+#create by caijz 09/18/2006
+#奖励物品        概率
+
+[奖励等级]
+name$: 特等奖
+
+
+[特等奖]
+金系装备奖励 : 100
+
+
+
+
+[金系装备奖励]
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "龙冠1"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤冠1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "连环甲1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蛟皮袄1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影靴1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "飞龙圈1" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥寒冰斧6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影弓6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "邪灵绝钩6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "噬魂魔爪6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "云龙枪6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "刺骨玄冥拳套6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "冰雪残月刀6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九黎剑6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蔽日扇6" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "撼地锤6"})
+
+
+
+[龙冠1]
+name      : 蟠龙冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 15, "prop/resist_forgotten", 20, "prop/resist_poison", 20, "prop2/all_resist_except", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/resist_forgotten", 20, "prop3/resist_forgotten",20,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "all_resist_except","suit_level", 90,"suit_name", 90级水系套装})
+
+[无影靴1]
+name      : 天行履
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_attrib", 18, "prop/con", 22, "prop/def", 550, "prop2/all_attrib", 18,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/def", 550, "prop3/mag_dodge",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+[凤冠1]
+name      : 金霞冠
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 15, "prop/resist_forgotten", 20, "prop/resist_poison", 20, "prop2/all_resist_except", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/resist_forgotten", 20, "prop3/resist_forgotten",20,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "all_resist_except","suit_level", 90,"suit_name", 90级水系套装})
+
+[飞龙圈1]
+name      : 凤舞圈
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 15, "prop/resist_forgotten", 20, "prop/resist_poison", 20, "prop2/all_resist_except", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/resist_forgotten", 20, "prop3/resist_forgotten",20,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "all_resist_except","suit_level", 90,"suit_name", 90级水系套装})
+
+[连环甲1]
+name      : 金缕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 15, "prop/resist_forgotten", 20, "prop/resist_poison", 20, "prop2/all_resist_except", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/resist_forgotten", 20, "prop3/resist_forgotten",20,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "all_resist_except","suit_level", 90,"suit_name", 90级水系套装})
+
+[蛟皮袄1]
+name      : 天蚕衣
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_resist_except", 15, "prop/resist_forgotten", 20, "prop/resist_poison", 20, "prop2/all_resist_except", 15,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/resist_forgotten", 20, "prop3/resist_forgotten",20,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/def", 2608, "prop_rebuild/max_life", 5008,"prop_resonance", "all_resist_except","suit_level", 90,"suit_name", 90级水系套装})
+
+
+
+[撼地锤6]
+name      : 破天锤
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_confusion",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[玄冥寒冰斧6]
+name      : 青光碎灵斧
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_lost",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[蔽日扇6]
+name      : 乾坤扇
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_sleep",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[无影弓6]
+name      : 无影弓
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_lock",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[九黎剑6]
+name      : 轩辕剑
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_frozen",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[邪灵绝钩6]
+name      : 无相断魂戟
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_cage",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[噬魂魔爪6]
+name      : 拂兰指
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_poison",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[云龙枪6]
+name      : 蕴雷枪
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_forgotten",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[刺骨玄冥拳套6]
+name      : 阴阳八卦拳套
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_melt",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+[冰雪残月刀6]
+name      : 神魔幻影刀
+min_level : 90
+max_level : 90
+attribs      : ({ "prop/all_polar", 5, "prop/all_skill", 10, "prop4/ignore_all_resist_except", 20, "prop2/all_skill", 10,"prop2_color",1, "prop_seal/super_obstruct",10, "prop_seal_base/max_life",1500, "seal_flag",1, "prop4/ignore_all_resist_except", 20, "prop3/super_repress",30,"color", 绿色,"suit_polar", 4,"rebuild_level", 0,"prop_suit/def", 2568,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 6218,"prop_rebuild/mag_power", 6218,"prop_resonance", "con","suit_level", 90,"suit_name", 90级水系套装})
+
+
+
+
+
