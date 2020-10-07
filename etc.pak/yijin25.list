@@ -14,128 +14,128 @@ name$: 特等奖
 
 
 [金系装备奖励]
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "龙冠2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "凤冠2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "连环甲2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蛟皮袄2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影靴2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "飞龙圈2" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "撼地锤5"})
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "蔽日扇5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "无影弓5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "九黎剑5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "邪灵绝钩5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "噬魂魔爪5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "冰雪残月刀5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "云龙枪5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "刺骨玄冥拳套5" })
-bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "玄冥寒冰斧5" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "男冠" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "女冠" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "男衣" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "女衣" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "靴子" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "腰带" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "土武器"})
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "火武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "新火武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "水武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "新水武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "木武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "新金武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "金武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "新木武器" })
+bonus$:  ({ 0, 0, 100, "属性道具", 1, 1, "新土武器" })
 
-[撼地锤5]
+[土武器]
 name      : 炼狱麒麟杵
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[玄冥寒冰斧5]
+[新土武器]
 name      : 烈焰凤头斧
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[蔽日扇5]
+[火武器]
 name      : 离火七翎扇
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[无影弓5]
+[新火武器]
 name      : 追魂嗜魄弓
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[九黎剑5]
+[水武器]
 name      : 紫青玄魔剑
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[邪灵绝钩5]
+[新水武器]
 name      : 屠魔追风戟
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[噬魂魔爪5]
+[木武器]
 name      : 七巧玲珑爪
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[云龙枪5]
+[金武器]
 name      : 九转金刚刃
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[刺骨玄冥拳套5]
+[新木武器]
 name      : 鬼藏惊鸿拳套
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[冰雪残月刀5]
+[新金武器]
 name      : 沉虹连斩刀
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_polar", 5, "prop/earth", 5, "prop/phy_power", 2800, "prop/phy_power", 2800, "prop2/all_polar", 5,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/phy_power", 2800, "prop4/phy_power", 2800, "prop3/enhanced_phy",10,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/all_attrib", 24,"prop_rebuild/phy_power", 11043,"prop_rebuild/mag_power", 11043,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
-[龙冠2]
+[男冠]
 name      : 星耀冠
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_attrib", 22, "prop/str", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/str", 27, "prop3/penetrate_rate",30,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[无影靴2]
+[靴子]
 name      : 御风履
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_attrib", 22, "prop/str", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/str", 27, "prop3/penetrate_rate",30,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[凤冠2]
+[女冠]
 name      : 凌波霞冠
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_attrib", 22, "prop/str", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/str", 27, "prop3/penetrate_rate",30,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[飞龙圈2]
+[腰带]
 name      : 鱼皮宝甲圈
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_attrib", 22, "prop/str", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/str", 27, "prop3/penetrate_rate",30,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[连环甲2]
+[男衣]
 name      : 瀚宇法袍
 min_level : 110
 max_level : 110
 attribs      : ({ "prop/all_attrib", 22, "prop/str", 27, "prop/dex", 27, "prop2/all_attrib", 22,"prop2_color",1, "prop_seal/chase",10, "prop_seal_base/stunt_rate",10, "seal_flag",1, "prop4/str", 27, "prop3/penetrate_rate",30,"color", 绿色,"suit_polar", 16,"rebuild_level", 0,"prop_suit/phy_power", 1027,"prop_rebuild/def", 3308, "prop_rebuild/max_life", 6008,"prop_resonance", "str","suit_level", 110,"suit_name",110级土系套装})
 
 
-[蛟皮袄2]
+[女衣]
 name      : 星晶法衣
 min_level : 110
 max_level : 110
