@@ -17,80 +17,17 @@
 
 [ZRWLB001]
 rate : 10000
-level_limit : 60
+level_limit : 300
 rumor_channel : 1
 system_channel : 0
-bonus$  : ({ 0, 0, 100, "血池#赠品", 1, 1 })
+bonus$  : ({ 0, 0, 100, "福03", 1, 1 })
 
 [ZRWLB002]
 rate : 10000
-level_limit : 60
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "灵池#赠品", 1, 1 })
-
-[ZRWLB003]
-rate : 10000
-level_limit : 80
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "血玲珑#赠品", 1, 1 })
-
-[ZRWLB004]
-rate : 10000
-level_limit : 80
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "法玲珑#赠品", 1, 1 })
-
-[ZRWLB005]
-rate : 5000
-level_limit : 100
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "惊妖铃#赠品", 1, 1 })
-
-[ZRWLB006]
-rate : 5000
-level_limit : 100
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "特效仙风散#赠品", 1, 1 })
-
-[ZRWLB007]
-rate : 2000
 level_limit : 300
 rumor_channel : 1
 system_channel : 0
-bonus$  : ({ 0, 0, 100, "超级黑水晶#赠品", 1, 1 })
-
-[ZRWLB008]
-rate : 1000
-level_limit : 300
-rumor_channel : 1
-system_channel : 0
-bonus$  : ({ 0, 0, 100, "超级绿水晶#赠品", 1, 1 })
-
-[ZRWLB009]
-rate : 166
-level_limit : 300
-rumor_channel : 0
-system_channel : 1
-bonus$  : ({ 0, 0, 100, "超级女娲石", 1, 1 })
-
-[ZRWLB010]
-rate : 10
-level_limit : 300
-rumor_channel : 0
-system_channel : 1
-bonus$  : ({ 0, 0, 100, "法文手轮", 1, 1 })
-
-#[ZRWLB011]
-#rate : 1
-#level_limit : 300
-#rumor_channel : 0
-#system_channel : 1
-#bonus$  : ({ 0, 0, 100, "灵引咒", 1, 1 })
+bonus$  : ({ 0, 0, 100, "福05", 1, 1 })
 
 [ZRWLM001]
 #polar                 : -1
