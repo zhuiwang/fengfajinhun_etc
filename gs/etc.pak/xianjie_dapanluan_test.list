@@ -1,9 +1,18 @@
 #FORM2
 
 [活动时间]
-time_list$ : ({ "2009-09-06-00:00:00", "EVERY_HOUR(1.5)", "EVERY_DAY(1)" })
-time_list$ : ({ "2009-09-06-13:00:00", "EVERY_HOUR(1.5)", "EVERY_DAY(1)" })
-time_list$ : ({ "2009-09-06-19:00:00", "EVERY_HOUR(1.5)", "EVERY_DAY(1)" })
+time_list$ : ({ "2018-06-01-00:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-02:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-04:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-06:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-08:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-10:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-12:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-14:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-16:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-18:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-20:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
+time_list$ : ({ "2018-06-01-22:00:00", "EVERY_HOUR(2)", "EVERY_DAY(1)", "2025-12-30-23:59:59" })
 
 [before_start]
 time     : 300
@@ -39,7 +48,7 @@ resist_frozen    : 45
 resist_sleep     : 45
 resist_forgotten : 45
 resist_confusion : 45
-bonus            : ({ "叛逆军袖章", 2 })
+bonus            : ({ "叛逆军袖章", 20 })
 comrade          : ({ "仙界叛逆", 4 })
 skills           : ({ "B4" })
 attach_skills    : ({ 100, "B3", "B5" })
@@ -67,7 +76,7 @@ resist_forgotten : 45
 resist_confusion : 45
 accurate         : 100
 stunt_rate       : 50
-bonus            : ({ "叛逆军袖章", 2 })
+bonus            : ({ "叛逆军袖章", 20 })
 comrade          : ({ "仙界叛逆", 4 })
 tactics          : "panni_tactics"
 modify_attrib    : "modify_monster_attrib"
@@ -90,7 +99,7 @@ resist_frozen    : 75
 resist_sleep     : 75
 resist_forgotten : 75
 resist_confusion : 75
-bonus            : ({ "叛逆军袖章", 2 })
+bonus            : ({ "叛逆军袖章", 20 })
 comrade          : ({ "仙界叛逆", 4 })
 skills           : ({ "B4" })
 attach_skills    : ({ 100, "B3", "B5" })
@@ -116,7 +125,7 @@ resist_sleep     : 75
 resist_forgotten : 75
 resist_confusion : 75
 stunt_rate       : 50
-bonus            : ({ "叛逆精英袖章", 2 })
+bonus            : ({ "叛逆精英袖章", 20 })
 rumor_msg        : ({ "#Y仙界叛逆精英#n", "是哪个喽啰在大爷面前嚣张？#YPLAYER#n，就你？在我的剑与法力之下灰飞烟灭吧！" })
 comrade          : ({ "仙界叛逆精英", 4 })
 skills           : ({ "B4" })
@@ -145,7 +154,7 @@ resist_confusion    : 75
 stunt_rate          : 50
 counter_attack      : 10
 counter_attack_rate : 50
-bonus               : ({ "叛逆将领袖章", 1 })
+bonus               : ({ "叛逆将领袖章", 40 })
 rumor_msg           : ({ "#Y仙界叛逆将领#n", "三界必定是我的，反抗者只有死路一条！", "#Y仙界神捕#n", "尔等叛逆，口出狂言，莫非不见你大势已去，贤能之士如#YPLAYER#n已经将你属下尽数击退，今日必要将你就地正法！" })
 artifact            : ({ "fantianyin", "hunyuan-jindou", "jiulong-shenhuozhao", "jinjiaojian"})
 artifact_level      : 18
