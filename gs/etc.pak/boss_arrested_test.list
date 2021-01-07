@@ -107,9 +107,7 @@ skills            : ({ "C4", "B4" })
 
 #物品奖励
 [item_bonus]
-stone        : 40
-medicine     : 40
-charge_item  : 20
+charge_item : 100
 
 #妖石奖励
 [stone]
@@ -165,48 +163,15 @@ amount : 5
 
 #收费道具
 [charge_item]
-特效仙风散$  : ({ "特效仙风散" })
-超级仙风散$  : ({ "超级仙风散" })
-引路蜂$  : ({ "引路蜂" })
-急急如律令$  : ({ "急急如律令"})
-飞行符$  : ({ "飞行符" })
-宠风散$  : ({ "宠风散" })
-金蝉脱壳$  : ({ "金蝉脱壳" })
-天神护佑$  : ({ "天神护佑" })
-驯兽诀$  : ({ "驯兽诀" })
+潜能$: ({ "福02" })
+道行$: ({ "福05" })
 
-[特效仙风散]
-weight : 10
-amount : 1
 
-[超级仙风散]
-weight : 10
-amount : 1
+[福02]
+weight：100
+amount：3
 
-[引路蜂]
-weight : 10
-amount : 1
+[福05]
+weight：100
+amount：1
 
-[急急如律令]
-weight : 10
-amount : 1
-
-[飞行符]
-weight : 10
-amount : 1
-
-[宠风散]
-weight : 10
-amount : 1
-
-[金蝉脱壳]
-weight : 10
-amount : 1
-
-[天神护佑]
-weight : 10
-amount : 1
-
-[驯兽诀]
-weight : 10
-amount : 1
