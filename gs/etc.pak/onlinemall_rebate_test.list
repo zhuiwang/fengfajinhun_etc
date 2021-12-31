@@ -2,7 +2,7 @@
 
 [setting]
 start_time       : "2016-06-16-00:00:00"
-end_time         : "2021-06-24-23:59:59"
+end_time         : "2022-06-24-23:59:59"
 
 [broadcast_setting]
 broadcast_list : ({ "start_task" })
