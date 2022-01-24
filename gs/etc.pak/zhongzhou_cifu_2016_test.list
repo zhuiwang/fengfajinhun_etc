@@ -2,8 +2,8 @@
 
 [setting]
 start_time        : "2021-12-31-00:00:00"
-end_time          : "2022-01-07-23:59:59"
-exchange_end_time : "2022-01-07-23:00:00"
+end_time          : "2022-01-30-23:59:59"
+exchange_end_time : "2022-01-30-23:00:00"
 version           : 1
 
 [broadcast_setting]
